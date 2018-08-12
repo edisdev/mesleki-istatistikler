@@ -1,0 +1,33 @@
+.v-select {
+  font-family: inherit !important;
+  .dropdown-toggle {
+    border-color: $color-gray !important;
+    input {
+      height: 50px !important;
+    }
+    .clear {
+      bottom: 19px !important;
+      right: 36px !important;
+    }
+  }
+  .selected-tag {
+    height: 52px !important;
+    float: initial;
+    display: flex;
+    align-items: center;
+    margin: 0 !important;
+    padding: 7px !important;
+  }
+  .open-indicator {
+    bottom: 16px !important;
+    right: 1em !important;
+  }
+  .dropdown-menu {
+    a {
+      padding: 10px;
+    }
+    & > .highlight > a {
+      background: $purple !important;
+    }
+  }
+}

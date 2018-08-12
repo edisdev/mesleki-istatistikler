@@ -1,0 +1,5434 @@
+[
+  {
+    "id": "code-1",
+    "label": "Acentacı"
+  },
+  {
+    "id": "code-2",
+    "label": "Acente"
+  },
+  {
+    "id": "code-3",
+    "label": "Acil Durum Yönetmeni"
+  },
+  {
+    "id": "code-4",
+    "label": "Acil Tıp Teknisyeni"
+  },
+  {
+    "id": "code-5",
+    "label": "Adli Bilimci"
+  },
+  {
+    "id": "code-6",
+    "label": "Adli Kimyager"
+  },
+  {
+    "id": "code-7",
+    "label": "Adli Tabip"
+  },
+  {
+    "id": "code-8",
+    "label": "Agronomist"
+  },
+  {
+    "id": "code-9",
+    "label": "Ahşap Tekne Yapımcısı"
+  },
+  {
+    "id": "code-10",
+    "label": "Aile Hekimi"
+  },
+  {
+    "id": "code-11",
+    "label": "AirBnb Ev Sahibi"
+  },
+  {
+    "id": "code-12",
+    "label": "Akortçu"
+  },
+  {
+    "id": "code-13",
+    "label": "Aktar"
+  },
+  {
+    "id": "code-14",
+    "label": "Aktivist"
+  },
+  {
+    "id": "code-15",
+    "label": "Aktris"
+  },
+  {
+    "id": "code-16",
+    "label": "Aktör"
+  },
+  {
+    "id": "code-17",
+    "label": "Aktüer"
+  },
+  {
+    "id": "code-18",
+    "label": "Aktüerya"
+  },
+  {
+    "id": "code-19",
+    "label": "Akustikçi"
+  },
+  {
+    "id": "code-20",
+    "label": "Akışkanlar Fizikçisi"
+  },
+  {
+    "id": "code-21",
+    "label": "Alacak Tahsildarı"
+  },
+  {
+    "id": "code-22",
+    "label": "Alan Fizikçisi"
+  },
+  {
+    "id": "code-23",
+    "label": "Alan Teknisyeni"
+  },
+  {
+    "id": "code-24",
+    "label": "Alan Uygulamaları Uzmanı"
+  },
+  {
+    "id": "code-25",
+    "label": "Albay"
+  },
+  {
+    "id": "code-26",
+    "label": "Ambalajcı"
+  },
+  {
+    "id": "code-27",
+    "label": "Ambarcı"
+  },
+  {
+    "id": "code-28",
+    "label": "Ambulans Çalışanı"
+  },
+  {
+    "id": "code-29",
+    "label": "Ambulans şoförü"
+  },
+  {
+    "id": "code-30",
+    "label": "Amerikan Siyaset Bilimcisi"
+  },
+  {
+    "id": "code-31",
+    "label": "Amiral"
+  },
+  {
+    "id": "code-32",
+    "label": "Anahtarcı"
+  },
+  {
+    "id": "code-33",
+    "label": "Analist"
+  },
+  {
+    "id": "code-34",
+    "label": "Analitik Laboratuvar Teknisyeni"
+  },
+  {
+    "id": "code-35",
+    "label": "Analitik Servisler Kimyageri"
+  },
+  {
+    "id": "code-36",
+    "label": "Anatomist"
+  },
+  {
+    "id": "code-37",
+    "label": "Anestezi Teknikeri"
+  },
+  {
+    "id": "code-38",
+    "label": "Anestezi Uzmanı"
+  },
+  {
+    "id": "code-39",
+    "label": "Animatör"
+  },
+  {
+    "id": "code-40",
+    "label": "Anlatım Bilimci"
+  },
+  {
+    "id": "code-41",
+    "label": "Antik Felsefe Uzmanı"
+  },
+  {
+    "id": "code-42",
+    "label": "Antik Tarih Uzmanı"
+  },
+  {
+    "id": "code-43",
+    "label": "Antika Satıcısı"
+  },
+  {
+    "id": "code-44",
+    "label": "Antropolog"
+  },
+  {
+    "id": "code-45",
+    "label": "Apartman Görevlisi"
+  },
+  {
+    "id": "code-46",
+    "label": "Apartman Yöneticisi"
+  },
+  {
+    "id": "code-47",
+    "label": "Araba Satıcısı"
+  },
+  {
+    "id": "code-48",
+    "label": "Araba Tamircisi"
+  },
+  {
+    "id": "code-49",
+    "label": "Araba Yıkayıcısı"
+  },
+  {
+    "id": "code-50",
+    "label": "Arabacı"
+  },
+  {
+    "id": "code-51",
+    "label": "Arabulucu"
+  },
+  {
+    "id": "code-52",
+    "label": "Araştırma Asistanı"
+  },
+  {
+    "id": "code-53",
+    "label": "Araştırma Direktörü"
+  },
+  {
+    "id": "code-54",
+    "label": "Araştırma Ekip Lideri"
+  },
+  {
+    "id": "code-55",
+    "label": "Araştırma Kimyageri"
+  },
+  {
+    "id": "code-56",
+    "label": "Araştırma Teknisyeni"
+  },
+  {
+    "id": "code-57",
+    "label": "Araştırma ve Geliştirme (AR-GE) Çalışanı"
+  },
+  {
+    "id": "code-58",
+    "label": "Araştırma ve Geliştirme Direktörü"
+  },
+  {
+    "id": "code-59",
+    "label": "Araştırma ve Geliştirme Kimyageri"
+  },
+  {
+    "id": "code-60",
+    "label": "Araştırma ve Geliştirme Müdürü"
+  },
+  {
+    "id": "code-61",
+    "label": "Araştırma ve Geliştirme Teknisyeni"
+  },
+  {
+    "id": "code-62",
+    "label": "Araştırma ve İnovasyon Müdürü"
+  },
+  {
+    "id": "code-63",
+    "label": "Araştırmacı"
+  },
+  {
+    "id": "code-64",
+    "label": "Araştırıcı"
+  },
+  {
+    "id": "code-65",
+    "label": "Arka Site Geliştiricisi"
+  },
+  {
+    "id": "code-66",
+    "label": "Arkeolog"
+  },
+  {
+    "id": "code-67",
+    "label": "Armatör"
+  },
+  {
+    "id": "code-68",
+    "label": "Arpist"
+  },
+  {
+    "id": "code-69",
+    "label": "Artist"
+  },
+  {
+    "id": "code-70",
+    "label": "Arıcı"
+  },
+  {
+    "id": "code-71",
+    "label": "Arşivci"
+  },
+  {
+    "id": "code-72",
+    "label": "Asansör Yükleyici"
+  },
+  {
+    "id": "code-73",
+    "label": "Asansörcü"
+  },
+  {
+    "id": "code-74",
+    "label": "Asistan"
+  },
+  {
+    "id": "code-75",
+    "label": "Asker"
+  },
+  {
+    "id": "code-76",
+    "label": "Assay Geliştirme Uzmanı"
+  },
+  {
+    "id": "code-77",
+    "label": "Asteğmen"
+  },
+  {
+    "id": "code-78",
+    "label": "Astrobiyolog"
+  },
+  {
+    "id": "code-79",
+    "label": "Astrofizikçi"
+  },
+  {
+    "id": "code-80",
+    "label": "Astronom"
+  },
+  {
+    "id": "code-81",
+    "label": "Astronot"
+  },
+  {
+    "id": "code-82",
+    "label": "Astsubay"
+  },
+  {
+    "id": "code-83",
+    "label": "Astsubay Başçavuş"
+  },
+  {
+    "id": "code-84",
+    "label": "Astsubay Kıdemli Başçavuş"
+  },
+  {
+    "id": "code-85",
+    "label": "Astsubay Kıdemli Çavuş"
+  },
+  {
+    "id": "code-86",
+    "label": "Astsubay Kıdemli Üstçavuş"
+  },
+  {
+    "id": "code-87",
+    "label": "Astsubay Çavuş"
+  },
+  {
+    "id": "code-88",
+    "label": "Astsubay Üstçavuş"
+  },
+  {
+    "id": "code-89",
+    "label": "At Besicisi"
+  },
+  {
+    "id": "code-90",
+    "label": "Atlet"
+  },
+  {
+    "id": "code-91",
+    "label": "Atmosfer Bilimleri Uzmanı"
+  },
+  {
+    "id": "code-92",
+    "label": "Atomik Fizikçi"
+  },
+  {
+    "id": "code-93",
+    "label": "Av Bekçisi"
+  },
+  {
+    "id": "code-94",
+    "label": "Avcı"
+  },
+  {
+    "id": "code-95",
+    "label": "Avizeci"
+  },
+  {
+    "id": "code-96",
+    "label": "Avukat"
+  },
+  {
+    "id": "code-97",
+    "label": "Ayakkabı Boyacısı"
+  },
+  {
+    "id": "code-98",
+    "label": "Ayakkabı Tamircisi"
+  },
+  {
+    "id": "code-99",
+    "label": "Ayakkabıcı"
+  },
+  {
+    "id": "code-100",
+    "label": "Ayrıcalıklı Profesör"
+  },
+  {
+    "id": "code-101",
+    "label": "Ayı Oynatıcısı"
+  },
+  {
+    "id": "code-102",
+    "label": "Ağ yöneticisi"
+  },
+  {
+    "id": "code-103",
+    "label": "Aşçı"
+  },
+  {
+    "id": "code-104",
+    "label": "Aşçıbaşı"
+  },
+  {
+    "id": "code-105",
+    "label": "Bacacı"
+  },
+  {
+    "id": "code-106",
+    "label": "Badanacı"
+  },
+  {
+    "id": "code-107",
+    "label": "Baharatçı"
+  },
+  {
+    "id": "code-108",
+    "label": "Bahçe Bitkileri Uzmanı"
+  },
+  {
+    "id": "code-109",
+    "label": "Bahçıvan"
+  },
+  {
+    "id": "code-110",
+    "label": "Bakan"
+  },
+  {
+    "id": "code-111",
+    "label": "Bakkal"
+  },
+  {
+    "id": "code-112",
+    "label": "Bakteriyolog"
+  },
+  {
+    "id": "code-113",
+    "label": "Bakıcı"
+  },
+  {
+    "id": "code-114",
+    "label": "Bakım Asistanı"
+  },
+  {
+    "id": "code-115",
+    "label": "Bakırcı"
+  },
+  {
+    "id": "code-116",
+    "label": "Balon Pilotu"
+  },
+  {
+    "id": "code-117",
+    "label": "Balık Çiftliği Çalışanı"
+  },
+  {
+    "id": "code-118",
+    "label": "Balıkçı"
+  },
+  {
+    "id": "code-119",
+    "label": "Bankacı"
+  },
+  {
+    "id": "code-120",
+    "label": "Bankacılık Uzmanı"
+  },
+  {
+    "id": "code-121",
+    "label": "Banker"
+  },
+  {
+    "id": "code-122",
+    "label": "Barmen"
+  },
+  {
+    "id": "code-123",
+    "label": "Barmeyd"
+  },
+  {
+    "id": "code-124",
+    "label": "Basketbolcu"
+  },
+  {
+    "id": "code-125",
+    "label": "Basın Çalışanı"
+  },
+  {
+    "id": "code-126",
+    "label": "Baş Dinleme Müdürü (CLO)"
+  },
+  {
+    "id": "code-127",
+    "label": "Baş Editör"
+  },
+  {
+    "id": "code-128",
+    "label": "Baş Teknoloji Müdürü (CTO)"
+  },
+  {
+    "id": "code-129",
+    "label": "Baş Yönetim Müdürü (COO)"
+  },
+  {
+    "id": "code-130",
+    "label": "Başbakan"
+  },
+  {
+    "id": "code-131",
+    "label": "Başdümenci"
+  },
+  {
+    "id": "code-132",
+    "label": "Başhemşire"
+  },
+  {
+    "id": "code-133",
+    "label": "Başkan"
+  },
+  {
+    "id": "code-134",
+    "label": "Başkomiser"
+  },
+  {
+    "id": "code-135",
+    "label": "Başpiskopos"
+  },
+  {
+    "id": "code-136",
+    "label": "Başrahip"
+  },
+  {
+    "id": "code-137",
+    "label": "Başçavuş"
+  },
+  {
+    "id": "code-138",
+    "label": "Bebek Bakıcısı"
+  },
+  {
+    "id": "code-139",
+    "label": "Bekçi"
+  },
+  {
+    "id": "code-140",
+    "label": "Belediye Başkanı"
+  },
+  {
+    "id": "code-141",
+    "label": "Belediye Meclisi Üyesi"
+  },
+  {
+    "id": "code-142",
+    "label": "Benzinci"
+  },
+  {
+    "id": "code-143",
+    "label": "Berber"
+  },
+  {
+    "id": "code-144",
+    "label": "Besi Hayvancılığı İşçisi"
+  },
+  {
+    "id": "code-145",
+    "label": "Besicilik"
+  },
+  {
+    "id": "code-146",
+    "label": "Beslenme Bilimci"
+  },
+  {
+    "id": "code-147",
+    "label": "Besteci"
+  },
+  {
+    "id": "code-148",
+    "label": "Bestekar"
+  },
+  {
+    "id": "code-149",
+    "label": "Bilet Satıcısı"
+  },
+  {
+    "id": "code-150",
+    "label": "Biletçi"
+  },
+  {
+    "id": "code-151",
+    "label": "Bilgi İşlemci"
+  },
+  {
+    "id": "code-152",
+    "label": "Bilgisayar Ağ Yöneticisi"
+  },
+  {
+    "id": "code-153",
+    "label": "Bilgisayar Bilimleri Teorisyeni"
+  },
+  {
+    "id": "code-154",
+    "label": "Bilgisayar Mühendisi"
+  },
+  {
+    "id": "code-155",
+    "label": "Bilgisayar Programcısı"
+  },
+  {
+    "id": "code-156",
+    "label": "Bilgisayar Tamircisi"
+  },
+  {
+    "id": "code-157",
+    "label": "Bilim Ataşesi"
+  },
+  {
+    "id": "code-158",
+    "label": "Bilim Danışmanı"
+  },
+  {
+    "id": "code-159",
+    "label": "Bilim Programcısı"
+  },
+  {
+    "id": "code-160",
+    "label": "Bilim Sanatçısı"
+  },
+  {
+    "id": "code-161",
+    "label": "Bilim Teknisyeni"
+  },
+  {
+    "id": "code-162",
+    "label": "Bilim Yazarı"
+  },
+  {
+    "id": "code-163",
+    "label": "Bilim İnsanı"
+  },
+  {
+    "id": "code-164",
+    "label": "Bilimsel Proje Müdürü"
+  },
+  {
+    "id": "code-165",
+    "label": "Bilirkişi"
+  },
+  {
+    "id": "code-166",
+    "label": "Bilişsel (Kognitif) Psikolog"
+  },
+  {
+    "id": "code-167",
+    "label": "Bilişsel (Kognitif) Sinirbilimci"
+  },
+  {
+    "id": "code-168",
+    "label": "Binbaşı"
+  },
+  {
+    "id": "code-169",
+    "label": "Binicilik"
+  },
+  {
+    "id": "code-170",
+    "label": "Bioistatistikçi"
+  },
+  {
+    "id": "code-171",
+    "label": "Biracı"
+  },
+  {
+    "id": "code-172",
+    "label": "Bisikletçi"
+  },
+  {
+    "id": "code-173",
+    "label": "Bisküvici"
+  },
+  {
+    "id": "code-174",
+    "label": "Bitki Genetikçisi"
+  },
+  {
+    "id": "code-175",
+    "label": "Bitki Patologu"
+  },
+  {
+    "id": "code-176",
+    "label": "Bitki Yetiştiriciliği"
+  },
+  {
+    "id": "code-177",
+    "label": "Biyoanalitik Bilimci"
+  },
+  {
+    "id": "code-178",
+    "label": "Biyoenformatik Araştırmacısı"
+  },
+  {
+    "id": "code-179",
+    "label": "Biyofizikçi"
+  },
+  {
+    "id": "code-180",
+    "label": "Biyografi Yazarı"
+  },
+  {
+    "id": "code-181",
+    "label": "Biyokimyager"
+  },
+  {
+    "id": "code-182",
+    "label": "Biyolog"
+  },
+  {
+    "id": "code-183",
+    "label": "Biyoloji Profesörü"
+  },
+  {
+    "id": "code-184",
+    "label": "Biyolojik Antropolog"
+  },
+  {
+    "id": "code-185",
+    "label": "Biyolojik Psikolog"
+  },
+  {
+    "id": "code-186",
+    "label": "Biyomedikal Mühendisi"
+  },
+  {
+    "id": "code-187",
+    "label": "Biyomekanikçi"
+  },
+  {
+    "id": "code-188",
+    "label": "Biyometeorolog"
+  },
+  {
+    "id": "code-189",
+    "label": "Biyomoleküler Mühendis"
+  },
+  {
+    "id": "code-190",
+    "label": "Biyoteknolojist"
+  },
+  {
+    "id": "code-191",
+    "label": "Biyoölçüm Uzmanı"
+  },
+  {
+    "id": "code-192",
+    "label": "Blogger"
+  },
+  {
+    "id": "code-193",
+    "label": "Bobinajcı"
+  },
+  {
+    "id": "code-194",
+    "label": "Bomba İmhacı"
+  },
+  {
+    "id": "code-195",
+    "label": "Borsa Bankeri"
+  },
+  {
+    "id": "code-196",
+    "label": "Borsacı"
+  },
+  {
+    "id": "code-197",
+    "label": "Borucu"
+  },
+  {
+    "id": "code-198",
+    "label": "Botanikçi"
+  },
+  {
+    "id": "code-199",
+    "label": "Boyacı"
+  },
+  {
+    "id": "code-200",
+    "label": "Bozacı"
+  },
+  {
+    "id": "code-201",
+    "label": "Bulaşıkçı"
+  },
+  {
+    "id": "code-202",
+    "label": "Buldozer Operatörü"
+  },
+  {
+    "id": "code-203",
+    "label": "Bulut (Cloud) Mimarı"
+  },
+  {
+    "id": "code-204",
+    "label": "Bulut Sistem (Cloud) Uzmanı"
+  },
+  {
+    "id": "code-205",
+    "label": "Böcekbilimci (Entomolog)"
+  },
+  {
+    "id": "code-206",
+    "label": "Börekçi"
+  },
+  {
+    "id": "code-207",
+    "label": "Bütçe Uzmanı"
+  },
+  {
+    "id": "code-208",
+    "label": "Büyük Veri Analisti"
+  },
+  {
+    "id": "code-209",
+    "label": "Büyükelçi"
+  },
+  {
+    "id": "code-210",
+    "label": "Büyüme ve Gelişme Ekonomisti"
+  },
+  {
+    "id": "code-211",
+    "label": "Cam Dekorasyon Uzmanı"
+  },
+  {
+    "id": "code-212",
+    "label": "Cam Kesici"
+  },
+  {
+    "id": "code-213",
+    "label": "Cam Sanatçısı"
+  },
+  {
+    "id": "code-214",
+    "label": "Cam İşçisi"
+  },
+  {
+    "id": "code-215",
+    "label": "Camcı"
+  },
+  {
+    "id": "code-216",
+    "label": "Cebirsel Geometri Uzmanı"
+  },
+  {
+    "id": "code-217",
+    "label": "Celep"
+  },
+  {
+    "id": "code-218",
+    "label": "Cellat"
+  },
+  {
+    "id": "code-219",
+    "label": "Cenaze İşleri Çalışanı"
+  },
+  {
+    "id": "code-220",
+    "label": "Centilmen Bilimci (Hobi Bilimcisi)"
+  },
+  {
+    "id": "code-221",
+    "label": "Cerrah"
+  },
+  {
+    "id": "code-222",
+    "label": "Ceza Avukatı"
+  },
+  {
+    "id": "code-223",
+    "label": "Cillopçu (Misketçi)"
+  },
+  {
+    "id": "code-224",
+    "label": "Cost Control"
+  },
+  {
+    "id": "code-225",
+    "label": "Cumhurbaşkanı"
+  },
+  {
+    "id": "code-226",
+    "label": "Dadı"
+  },
+  {
+    "id": "code-227",
+    "label": "Daktilograf"
+  },
+  {
+    "id": "code-228",
+    "label": "Dalgıç"
+  },
+  {
+    "id": "code-229",
+    "label": "Damıtıcı"
+  },
+  {
+    "id": "code-230",
+    "label": "Dans Sanatçısı"
+  },
+  {
+    "id": "code-231",
+    "label": "Dansöz"
+  },
+  {
+    "id": "code-232",
+    "label": "Danışman"
+  },
+  {
+    "id": "code-233",
+    "label": "Davranış Bilimci"
+  },
+  {
+    "id": "code-234",
+    "label": "Davranışsal Ekonomist"
+  },
+  {
+    "id": "code-235",
+    "label": "Davulcu"
+  },
+  {
+    "id": "code-236",
+    "label": "Debbağ"
+  },
+  {
+    "id": "code-237",
+    "label": "Dedektif"
+  },
+  {
+    "id": "code-238",
+    "label": "Dekoratör"
+  },
+  {
+    "id": "code-239",
+    "label": "Demirci"
+  },
+  {
+    "id": "code-240",
+    "label": "Demiryolu Elektrisyeni"
+  },
+  {
+    "id": "code-241",
+    "label": "Demiryolu Çalışanı"
+  },
+  {
+    "id": "code-242",
+    "label": "Demiryolu İşçisi"
+  },
+  {
+    "id": "code-243",
+    "label": "Demografik Satıcı"
+  },
+  {
+    "id": "code-244",
+    "label": "Dendrolog"
+  },
+  {
+    "id": "code-245",
+    "label": "Denetim Müdürü"
+  },
+  {
+    "id": "code-246",
+    "label": "Denetleyici"
+  },
+  {
+    "id": "code-247",
+    "label": "Denetmen"
+  },
+  {
+    "id": "code-248",
+    "label": "Denetçi"
+  },
+  {
+    "id": "code-249",
+    "label": "Deneysel Evrimsel Biyolog"
+  },
+  {
+    "id": "code-250",
+    "label": "Deneysel Fizikçi"
+  },
+  {
+    "id": "code-251",
+    "label": "Deniz Mühendisi"
+  },
+  {
+    "id": "code-252",
+    "label": "Denizci"
+  },
+  {
+    "id": "code-253",
+    "label": "Deontolog"
+  },
+  {
+    "id": "code-254",
+    "label": "Depocu"
+  },
+  {
+    "id": "code-255",
+    "label": "Derici"
+  },
+  {
+    "id": "code-256",
+    "label": "Derin Öğrenme Uzmanı"
+  },
+  {
+    "id": "code-257",
+    "label": "Dermatolog"
+  },
+  {
+    "id": "code-258",
+    "label": "Desinatör"
+  },
+  {
+    "id": "code-259",
+    "label": "Devlet Memuru"
+  },
+  {
+    "id": "code-260",
+    "label": "Değirmen İşçisi"
+  },
+  {
+    "id": "code-261",
+    "label": "Değirmenci"
+  },
+  {
+    "id": "code-262",
+    "label": "Dijital Pazarlama Uzmanı"
+  },
+  {
+    "id": "code-263",
+    "label": "Dil Bilimci"
+  },
+  {
+    "id": "code-264",
+    "label": "Dil Uzmanı"
+  },
+  {
+    "id": "code-265",
+    "label": "Dilci"
+  },
+  {
+    "id": "code-266",
+    "label": "Dilenci"
+  },
+  {
+    "id": "code-267",
+    "label": "Diplomat"
+  },
+  {
+    "id": "code-268",
+    "label": "Disk Jockey (DJ)"
+  },
+  {
+    "id": "code-269",
+    "label": "Diyabet Bilimci"
+  },
+  {
+    "id": "code-270",
+    "label": "Diyalekt Bilimci"
+  },
+  {
+    "id": "code-271",
+    "label": "Diyetisyen"
+  },
+  {
+    "id": "code-272",
+    "label": "Dizgici"
+  },
+  {
+    "id": "code-273",
+    "label": "Diş Cerrahı"
+  },
+  {
+    "id": "code-274",
+    "label": "Diş Hekimi"
+  },
+  {
+    "id": "code-275",
+    "label": "Diş Teknisyeni"
+  },
+  {
+    "id": "code-276",
+    "label": "Dok İşçisi"
+  },
+  {
+    "id": "code-277",
+    "label": "Doktor"
+  },
+  {
+    "id": "code-278",
+    "label": "Doku Mühendisi"
+  },
+  {
+    "id": "code-279",
+    "label": "Dokumacı"
+  },
+  {
+    "id": "code-280",
+    "label": "Donanım Tasarımcısı"
+  },
+  {
+    "id": "code-281",
+    "label": "Dondurmacı"
+  },
+  {
+    "id": "code-282",
+    "label": "Doçent"
+  },
+  {
+    "id": "code-283",
+    "label": "Doğa Bilimci"
+  },
+  {
+    "id": "code-284",
+    "label": "Doğa Fotoğrafçısı"
+  },
+  {
+    "id": "code-285",
+    "label": "Doğa Koruyucusu"
+  },
+  {
+    "id": "code-286",
+    "label": "Doğa Rehberi"
+  },
+  {
+    "id": "code-287",
+    "label": "Doğalgazcı"
+  },
+  {
+    "id": "code-288",
+    "label": "Doğramacı"
+  },
+  {
+    "id": "code-289",
+    "label": "Doğum Uzmanı"
+  },
+  {
+    "id": "code-290",
+    "label": "Drone Operatörü"
+  },
+  {
+    "id": "code-291",
+    "label": "Dublajcı"
+  },
+  {
+    "id": "code-292",
+    "label": "Duvarcı"
+  },
+  {
+    "id": "code-293",
+    "label": "Dökümcü"
+  },
+  {
+    "id": "code-294",
+    "label": "Dönerci"
+  },
+  {
+    "id": "code-295",
+    "label": "Dövizci"
+  },
+  {
+    "id": "code-296",
+    "label": "Döşemeci"
+  },
+  {
+    "id": "code-297",
+    "label": "Dükkan İşleticisi"
+  },
+  {
+    "id": "code-298",
+    "label": "Dümenci"
+  },
+  {
+    "id": "code-299",
+    "label": "Dürümcü"
+  },
+  {
+    "id": "code-300",
+    "label": "Düzenleme İşleri Müdürü"
+  },
+  {
+    "id": "code-301",
+    "label": "Düğmeci"
+  },
+  {
+    "id": "code-302",
+    "label": "Dış Mimar"
+  },
+  {
+    "id": "code-303",
+    "label": "E-sporcu"
+  },
+  {
+    "id": "code-304",
+    "label": "Ebe (Kadın Doğum)"
+  },
+  {
+    "id": "code-305",
+    "label": "Eczacı"
+  },
+  {
+    "id": "code-306",
+    "label": "Eczacı Kalfası"
+  },
+  {
+    "id": "code-307",
+    "label": "Editör"
+  },
+  {
+    "id": "code-308",
+    "label": "Ehliyet Kursu Görevlisi"
+  },
+  {
+    "id": "code-309",
+    "label": "Ekolog"
+  },
+  {
+    "id": "code-310",
+    "label": "Ekonometrist"
+  },
+  {
+    "id": "code-311",
+    "label": "Ekonomi Teorisyeni"
+  },
+  {
+    "id": "code-312",
+    "label": "Ekonomist"
+  },
+  {
+    "id": "code-313",
+    "label": "El İşçisi"
+  },
+  {
+    "id": "code-314",
+    "label": "Elektrik Ekipmanı Denetçisi"
+  },
+  {
+    "id": "code-315",
+    "label": "Elektrik Mühendisi"
+  },
+  {
+    "id": "code-316",
+    "label": "Elektrik-Elektronik Mühendisi"
+  },
+  {
+    "id": "code-317",
+    "label": "Elektrikçi"
+  },
+  {
+    "id": "code-318",
+    "label": "Elektrisyen"
+  },
+  {
+    "id": "code-319",
+    "label": "Elektrolog"
+  },
+  {
+    "id": "code-320",
+    "label": "Elektronik Mühendisi"
+  },
+  {
+    "id": "code-321",
+    "label": "Elektronik ve Haberleşme Mühendisi"
+  },
+  {
+    "id": "code-322",
+    "label": "Eleştirmen"
+  },
+  {
+    "id": "code-323",
+    "label": "Embriyolog"
+  },
+  {
+    "id": "code-324",
+    "label": "Emlakçı"
+  },
+  {
+    "id": "code-325",
+    "label": "Emniyet Amiri"
+  },
+  {
+    "id": "code-326",
+    "label": "Emniyet Genel Müdürü"
+  },
+  {
+    "id": "code-327",
+    "label": "Endokrinolog"
+  },
+  {
+    "id": "code-328",
+    "label": "Endüstri Mühendisi"
+  },
+  {
+    "id": "code-329",
+    "label": "Endüstri Sistemleri Mühendisi"
+  },
+  {
+    "id": "code-330",
+    "label": "Endüstriyel Ekonomist"
+  },
+  {
+    "id": "code-331",
+    "label": "Endüstriyel Tasarımcı"
+  },
+  {
+    "id": "code-332",
+    "label": "Enstrüman İmalatçısı"
+  },
+  {
+    "id": "code-333",
+    "label": "Enzim Bilimci"
+  },
+  {
+    "id": "code-334",
+    "label": "Epidemiyolog"
+  },
+  {
+    "id": "code-335",
+    "label": "Epistemolog"
+  },
+  {
+    "id": "code-336",
+    "label": "Ergonomist"
+  },
+  {
+    "id": "code-337",
+    "label": "Eskici"
+  },
+  {
+    "id": "code-338",
+    "label": "Estetisyen"
+  },
+  {
+    "id": "code-339",
+    "label": "Etimolog"
+  },
+  {
+    "id": "code-340",
+    "label": "Etnolog"
+  },
+  {
+    "id": "code-341",
+    "label": "Etnomüzikolog"
+  },
+  {
+    "id": "code-342",
+    "label": "Etolog (Hayvan Davranışı Bilimcisi)"
+  },
+  {
+    "id": "code-343",
+    "label": "Ev Sahibi"
+  },
+  {
+    "id": "code-344",
+    "label": "Ev hanımı"
+  },
+  {
+    "id": "code-345",
+    "label": "Evcil Hayvan Uzmanı"
+  },
+  {
+    "id": "code-346",
+    "label": "Evcil Hayvan Yetiştiricisi"
+  },
+  {
+    "id": "code-347",
+    "label": "Evrimsel Algoritma Araştırmacısı"
+  },
+  {
+    "id": "code-348",
+    "label": "Evrimsel Biyolog"
+  },
+  {
+    "id": "code-349",
+    "label": "Evrimsel Ekolog"
+  },
+  {
+    "id": "code-350",
+    "label": "Evrimsel Ekonomist"
+  },
+  {
+    "id": "code-351",
+    "label": "Evrimsel Fizyolog"
+  },
+  {
+    "id": "code-352",
+    "label": "Evrimsel Gelişimsel Biyolog"
+  },
+  {
+    "id": "code-353",
+    "label": "Evrimsel Mühendis"
+  },
+  {
+    "id": "code-354",
+    "label": "Evrimsel Robotikçi"
+  },
+  {
+    "id": "code-355",
+    "label": "Evrimsel Sinirbilimci"
+  },
+  {
+    "id": "code-356",
+    "label": "Eğitim Danışmanı"
+  },
+  {
+    "id": "code-357",
+    "label": "Eğitim Metotları Uzmanı"
+  },
+  {
+    "id": "code-358",
+    "label": "Eğitim Teknolojisti"
+  },
+  {
+    "id": "code-359",
+    "label": "Eğitimci"
+  },
+  {
+    "id": "code-360",
+    "label": "Eğitmen"
+  },
+  {
+    "id": "code-361",
+    "label": "Fabrika İşçisi"
+  },
+  {
+    "id": "code-362",
+    "label": "Fahişe"
+  },
+  {
+    "id": "code-363",
+    "label": "Farmakolog"
+  },
+  {
+    "id": "code-364",
+    "label": "Fatura Memuru"
+  },
+  {
+    "id": "code-365",
+    "label": "Fenomenolog"
+  },
+  {
+    "id": "code-366",
+    "label": "Fermantasyon İşçisi"
+  },
+  {
+    "id": "code-367",
+    "label": "Figüran"
+  },
+  {
+    "id": "code-368",
+    "label": "Fikolog"
+  },
+  {
+    "id": "code-369",
+    "label": "Film Yapımcısı"
+  },
+  {
+    "id": "code-370",
+    "label": "Film Yönetmeni"
+  },
+  {
+    "id": "code-371",
+    "label": "Filogenetikçi"
+  },
+  {
+    "id": "code-372",
+    "label": "Filolog"
+  },
+  {
+    "id": "code-373",
+    "label": "Filozof"
+  },
+  {
+    "id": "code-374",
+    "label": "Finansal Analist"
+  },
+  {
+    "id": "code-375",
+    "label": "Finansör"
+  },
+  {
+    "id": "code-376",
+    "label": "Fitopatolog"
+  },
+  {
+    "id": "code-377",
+    "label": "Fitososyolog"
+  },
+  {
+    "id": "code-378",
+    "label": "Fiziksel Antropolog"
+  },
+  {
+    "id": "code-379",
+    "label": "Fizikçi"
+  },
+  {
+    "id": "code-380",
+    "label": "Fizyolog"
+  },
+  {
+    "id": "code-381",
+    "label": "Fizyonomist"
+  },
+  {
+    "id": "code-382",
+    "label": "Fizyopatolog"
+  },
+  {
+    "id": "code-383",
+    "label": "Fizyoterapist"
+  },
+  {
+    "id": "code-384",
+    "label": "Fon Toplayıcı"
+  },
+  {
+    "id": "code-385",
+    "label": "Fon Yazarı"
+  },
+  {
+    "id": "code-386",
+    "label": "Fon Yöneticisi"
+  },
+  {
+    "id": "code-387",
+    "label": "Fonolog"
+  },
+  {
+    "id": "code-388",
+    "label": "Forklift Operatörü"
+  },
+  {
+    "id": "code-389",
+    "label": "Fotojeolog"
+  },
+  {
+    "id": "code-390",
+    "label": "Fotoğrafçı"
+  },
+  {
+    "id": "code-391",
+    "label": "Freelancer"
+  },
+  {
+    "id": "code-392",
+    "label": "Futbolcu"
+  },
+  {
+    "id": "code-393",
+    "label": "Fırıncı"
+  },
+  {
+    "id": "code-394",
+    "label": "Fıçıcı"
+  },
+  {
+    "id": "code-395",
+    "label": "Galerici"
+  },
+  {
+    "id": "code-396",
+    "label": "Gardiyan"
+  },
+  {
+    "id": "code-397",
+    "label": "Garson"
+  },
+  {
+    "id": "code-398",
+    "label": "Gazete Dağıtıcısı"
+  },
+  {
+    "id": "code-399",
+    "label": "Gazete Satıcısı"
+  },
+  {
+    "id": "code-400",
+    "label": "Gazeteci"
+  },
+  {
+    "id": "code-401",
+    "label": "Gazeteci Yazar"
+  },
+  {
+    "id": "code-402",
+    "label": "Gelecek Bilimci (Fütürolog)"
+  },
+  {
+    "id": "code-403",
+    "label": "Gelir Uzman Yardımcısı"
+  },
+  {
+    "id": "code-404",
+    "label": "Gelir Uzmanı"
+  },
+  {
+    "id": "code-405",
+    "label": "Gelişimsel Biyolog"
+  },
+  {
+    "id": "code-406",
+    "label": "Gelişimsel Psikolog"
+  },
+  {
+    "id": "code-407",
+    "label": "Geliştirme Teknolojisti"
+  },
+  {
+    "id": "code-408",
+    "label": "Gemici"
+  },
+  {
+    "id": "code-409",
+    "label": "Gen Düzenleme Yöneticisi"
+  },
+  {
+    "id": "code-410",
+    "label": "Genel Yayın Yönetmeni"
+  },
+  {
+    "id": "code-411",
+    "label": "Genelkurmay Başkanı"
+  },
+  {
+    "id": "code-412",
+    "label": "General"
+  },
+  {
+    "id": "code-413",
+    "label": "Genetik Danışmanı"
+  },
+  {
+    "id": "code-414",
+    "label": "Genetik Mühendisi"
+  },
+  {
+    "id": "code-415",
+    "label": "Genetiği Değiştirilmiş Organizma (GDO) Uzmanı"
+  },
+  {
+    "id": "code-416",
+    "label": "Gerontolog"
+  },
+  {
+    "id": "code-417",
+    "label": "Geyşa"
+  },
+  {
+    "id": "code-418",
+    "label": "Gezegen Bilimci"
+  },
+  {
+    "id": "code-419",
+    "label": "Gezgin"
+  },
+  {
+    "id": "code-420",
+    "label": "Gezici Vaiz"
+  },
+  {
+    "id": "code-421",
+    "label": "Gitarist"
+  },
+  {
+    "id": "code-422",
+    "label": "Gondolcu"
+  },
+  {
+    "id": "code-423",
+    "label": "Grafiker"
+  },
+  {
+    "id": "code-424",
+    "label": "Gramer Uzmanı"
+  },
+  {
+    "id": "code-425",
+    "label": "Greyder Operatörü"
+  },
+  {
+    "id": "code-426",
+    "label": "Gökbilimci"
+  },
+  {
+    "id": "code-427",
+    "label": "Görelilik Fizikçisi"
+  },
+  {
+    "id": "code-428",
+    "label": "Görsel/Ses Uzmanı"
+  },
+  {
+    "id": "code-429",
+    "label": "Göz Doktoru"
+  },
+  {
+    "id": "code-430",
+    "label": "Gözetmen"
+  },
+  {
+    "id": "code-431",
+    "label": "Gözlükçü"
+  },
+  {
+    "id": "code-432",
+    "label": "Güfteci"
+  },
+  {
+    "id": "code-433",
+    "label": "Gümrük Görevlisi"
+  },
+  {
+    "id": "code-434",
+    "label": "Gümrük Memuru"
+  },
+  {
+    "id": "code-435",
+    "label": "Gümrük Müşavir Yardımcısı"
+  },
+  {
+    "id": "code-436",
+    "label": "Gümrük Müşaviri"
+  },
+  {
+    "id": "code-437",
+    "label": "Gümrük Uzmanı"
+  },
+  {
+    "id": "code-438",
+    "label": "Gündelikçi"
+  },
+  {
+    "id": "code-439",
+    "label": "Güvenlik Görevlisi"
+  },
+  {
+    "id": "code-440",
+    "label": "Güvenlik Müdürü"
+  },
+  {
+    "id": "code-441",
+    "label": "Güvenlik Mühendisi"
+  },
+  {
+    "id": "code-442",
+    "label": "Güvenlik Veri Analisti"
+  },
+  {
+    "id": "code-443",
+    "label": "Güvenlikçi"
+  },
+  {
+    "id": "code-444",
+    "label": "Güzel Sanatçı"
+  },
+  {
+    "id": "code-445",
+    "label": "Güzellik Uzmanı"
+  },
+  {
+    "id": "code-446",
+    "label": "Gıda Biyoteknolojisti"
+  },
+  {
+    "id": "code-447",
+    "label": "Gıda Kimyageri"
+  },
+  {
+    "id": "code-448",
+    "label": "Gıda Mikrobiyologu"
+  },
+  {
+    "id": "code-449",
+    "label": "Gıda Mühendisi"
+  },
+  {
+    "id": "code-450",
+    "label": "Haberci"
+  },
+  {
+    "id": "code-451",
+    "label": "Haddeci"
+  },
+  {
+    "id": "code-452",
+    "label": "Haham"
+  },
+  {
+    "id": "code-453",
+    "label": "Hakem"
+  },
+  {
+    "id": "code-454",
+    "label": "Halk Ekonomisti"
+  },
+  {
+    "id": "code-455",
+    "label": "Halk Sağlığı Uzmanı"
+  },
+  {
+    "id": "code-456",
+    "label": "Halkbilimci"
+  },
+  {
+    "id": "code-457",
+    "label": "Halıcı"
+  },
+  {
+    "id": "code-458",
+    "label": "Hamal"
+  },
+  {
+    "id": "code-459",
+    "label": "Hamamcı"
+  },
+  {
+    "id": "code-460",
+    "label": "Hamurkâr"
+  },
+  {
+    "id": "code-461",
+    "label": "Hareket Memuru"
+  },
+  {
+    "id": "code-462",
+    "label": "Harita Mühendisi"
+  },
+  {
+    "id": "code-463",
+    "label": "Haritacı"
+  },
+  {
+    "id": "code-464",
+    "label": "Hastabakıcı"
+  },
+  {
+    "id": "code-465",
+    "label": "Hastane Araştırma Asistanı"
+  },
+  {
+    "id": "code-466",
+    "label": "Hastane Mali Analisti"
+  },
+  {
+    "id": "code-467",
+    "label": "Hattat"
+  },
+  {
+    "id": "code-468",
+    "label": "Hava Trafik Kontrolörü"
+  },
+  {
+    "id": "code-469",
+    "label": "Hava Trafikçisi"
+  },
+  {
+    "id": "code-470",
+    "label": "Hava Trafiği Güvenlik Teknisyeni"
+  },
+  {
+    "id": "code-471",
+    "label": "Havacı"
+  },
+  {
+    "id": "code-472",
+    "label": "Havacılık ve Uzay Mühendisi"
+  },
+  {
+    "id": "code-473",
+    "label": "Hayvan Bakıcısı"
+  },
+  {
+    "id": "code-474",
+    "label": "Hayvan Beslenmesi Uzmanı"
+  },
+  {
+    "id": "code-475",
+    "label": "Hayvan Teknisyeni"
+  },
+  {
+    "id": "code-476",
+    "label": "Hayvan Terbiyecisi"
+  },
+  {
+    "id": "code-477",
+    "label": "Hayvanat Bahçesi Çalışanı"
+  },
+  {
+    "id": "code-478",
+    "label": "Hekim Asistanı"
+  },
+  {
+    "id": "code-479",
+    "label": "Hematolog"
+  },
+  {
+    "id": "code-480",
+    "label": "Hemşire"
+  },
+  {
+    "id": "code-481",
+    "label": "Herpetolog"
+  },
+  {
+    "id": "code-482",
+    "label": "Hesap Denetçisi"
+  },
+  {
+    "id": "code-483",
+    "label": "Hesap Uzmanı"
+  },
+  {
+    "id": "code-484",
+    "label": "Hesaplama Bilimcisi"
+  },
+  {
+    "id": "code-485",
+    "label": "Hesaplamalı Dilbilimci"
+  },
+  {
+    "id": "code-486",
+    "label": "Hesaplamalı Evrimsel Biyolog"
+  },
+  {
+    "id": "code-487",
+    "label": "Hesaplamalı Filogenetikçi"
+  },
+  {
+    "id": "code-488",
+    "label": "Hesaplamalı Kimya Yöneticisi"
+  },
+  {
+    "id": "code-489",
+    "label": "Hesaplamalı Sinirbilimci"
+  },
+  {
+    "id": "code-490",
+    "label": "Heykeltıraş"
+  },
+  {
+    "id": "code-491",
+    "label": "Hidrobiyolog"
+  },
+  {
+    "id": "code-492",
+    "label": "Hidrolikçi"
+  },
+  {
+    "id": "code-493",
+    "label": "Hidrolog"
+  },
+  {
+    "id": "code-494",
+    "label": "Histofizyolog"
+  },
+  {
+    "id": "code-495",
+    "label": "Histopatolog"
+  },
+  {
+    "id": "code-496",
+    "label": "Hizmetli"
+  },
+  {
+    "id": "code-497",
+    "label": "Hizmetçi"
+  },
+  {
+    "id": "code-498",
+    "label": "Hokkabaz"
+  },
+  {
+    "id": "code-499",
+    "label": "Host"
+  },
+  {
+    "id": "code-500",
+    "label": "Hostes"
+  },
+  {
+    "id": "code-501",
+    "label": "Hukukçu"
+  },
+  {
+    "id": "code-502",
+    "label": "Hurdacı"
+  },
+  {
+    "id": "code-503",
+    "label": "Hücre Biyologu"
+  },
+  {
+    "id": "code-504",
+    "label": "Hücre Hattı Geliştirme Yöneticisi"
+  },
+  {
+    "id": "code-505",
+    "label": "Hücre Mühendisi"
+  },
+  {
+    "id": "code-506",
+    "label": "Hırdavatçı"
+  },
+  {
+    "id": "code-507",
+    "label": "IT"
+  },
+  {
+    "id": "code-508",
+    "label": "IT Destek Elemanı"
+  },
+  {
+    "id": "code-509",
+    "label": "Intranet Uzmanı"
+  },
+  {
+    "id": "code-510",
+    "label": "Irgat"
+  },
+  {
+    "id": "code-511",
+    "label": "Irk ve Etnisite Sosyologu"
+  },
+  {
+    "id": "code-512",
+    "label": "Işıkçı"
+  },
+  {
+    "id": "code-513",
+    "label": "Jeofizik Mühendisi"
+  },
+  {
+    "id": "code-514",
+    "label": "Jeohidrolog"
+  },
+  {
+    "id": "code-515",
+    "label": "Jeokronolog"
+  },
+  {
+    "id": "code-516",
+    "label": "Jeolog"
+  },
+  {
+    "id": "code-517",
+    "label": "Jeoloji Mühendisi"
+  },
+  {
+    "id": "code-518",
+    "label": "Jeomorfolog"
+  },
+  {
+    "id": "code-519",
+    "label": "Jimnastikçi"
+  },
+  {
+    "id": "code-520",
+    "label": "Jinekolog"
+  },
+  {
+    "id": "code-521",
+    "label": "Jokey"
+  },
+  {
+    "id": "code-522",
+    "label": "Jüri"
+  },
+  {
+    "id": "code-523",
+    "label": "Kabin Görevlisi"
+  },
+  {
+    "id": "code-524",
+    "label": "Kabuk Soyucusu"
+  },
+  {
+    "id": "code-525",
+    "label": "Kadın Berberi"
+  },
+  {
+    "id": "code-526",
+    "label": "Kadın Doğum Uzmanı"
+  },
+  {
+    "id": "code-527",
+    "label": "Kadın Hastalıkları Uzmanı"
+  },
+  {
+    "id": "code-528",
+    "label": "Kadın Terzisi"
+  },
+  {
+    "id": "code-529",
+    "label": "Kahveci"
+  },
+  {
+    "id": "code-530",
+    "label": "Kalaycı"
+  },
+  {
+    "id": "code-531",
+    "label": "Kalem Müdürü"
+  },
+  {
+    "id": "code-532",
+    "label": "Kalite Asistanı"
+  },
+  {
+    "id": "code-533",
+    "label": "Kalite Garanti Müdürü"
+  },
+  {
+    "id": "code-534",
+    "label": "Kalite Garanti Teknolojisti"
+  },
+  {
+    "id": "code-535",
+    "label": "Kalite Kontrol Analisti"
+  },
+  {
+    "id": "code-536",
+    "label": "Kalite Kontrol Müdürü"
+  },
+  {
+    "id": "code-537",
+    "label": "Kaloriferci"
+  },
+  {
+    "id": "code-538",
+    "label": "Kalp ve Damar Uzmanı"
+  },
+  {
+    "id": "code-539",
+    "label": "Kalıpçı"
+  },
+  {
+    "id": "code-540",
+    "label": "Kamarot"
+  },
+  {
+    "id": "code-541",
+    "label": "Kamera Mekaniği"
+  },
+  {
+    "id": "code-542",
+    "label": "Kameraman"
+  },
+  {
+    "id": "code-543",
+    "label": "Kamusal Bilim İnsanı"
+  },
+  {
+    "id": "code-544",
+    "label": "Kamyoncu"
+  },
+  {
+    "id": "code-545",
+    "label": "Kaplamacı"
+  },
+  {
+    "id": "code-546",
+    "label": "Kaportacı"
+  },
+  {
+    "id": "code-547",
+    "label": "Kaptan"
+  },
+  {
+    "id": "code-548",
+    "label": "Kapı Satıcısı"
+  },
+  {
+    "id": "code-549",
+    "label": "Kapıcı"
+  },
+  {
+    "id": "code-550",
+    "label": "Kardinal"
+  },
+  {
+    "id": "code-551",
+    "label": "Kardiyolog"
+  },
+  {
+    "id": "code-552",
+    "label": "Karikatürist"
+  },
+  {
+    "id": "code-553",
+    "label": "Kariyer Diplomatı"
+  },
+  {
+    "id": "code-554",
+    "label": "Kariyer Yönlendirme Danışmanı"
+  },
+  {
+    "id": "code-555",
+    "label": "Karoserci"
+  },
+  {
+    "id": "code-556",
+    "label": "Karpuzcu"
+  },
+  {
+    "id": "code-557",
+    "label": "Kartograf"
+  },
+  {
+    "id": "code-558",
+    "label": "Karşılaştırmalı Anatomist"
+  },
+  {
+    "id": "code-559",
+    "label": "Karşılaştırmalı Dilbilimci"
+  },
+  {
+    "id": "code-560",
+    "label": "Karşılaştırmalı Politika Uzmanı"
+  },
+  {
+    "id": "code-561",
+    "label": "Kasap"
+  },
+  {
+    "id": "code-562",
+    "label": "Kasiyer"
+  },
+  {
+    "id": "code-563",
+    "label": "Kat Görevlisi"
+  },
+  {
+    "id": "code-564",
+    "label": "Katı Atık Teknisyeni"
+  },
+  {
+    "id": "code-565",
+    "label": "Katı Hal Fizikçisi"
+  },
+  {
+    "id": "code-566",
+    "label": "Kaymakam"
+  },
+  {
+    "id": "code-567",
+    "label": "Kaynak Ekonomisti"
+  },
+  {
+    "id": "code-568",
+    "label": "Kaynakçı"
+  },
+  {
+    "id": "code-569",
+    "label": "Kayıkçı"
+  },
+  {
+    "id": "code-570",
+    "label": "Kayıtçı"
+  },
+  {
+    "id": "code-571",
+    "label": "Kazıcı"
+  },
+  {
+    "id": "code-572",
+    "label": "Kebapçı"
+  },
+  {
+    "id": "code-573",
+    "label": "Kemancı"
+  },
+  {
+    "id": "code-574",
+    "label": "Kesimci"
+  },
+  {
+    "id": "code-575",
+    "label": "Kimya Mühendisi"
+  },
+  {
+    "id": "code-576",
+    "label": "Kimya Teknisyeni"
+  },
+  {
+    "id": "code-577",
+    "label": "Kimyager"
+  },
+  {
+    "id": "code-578",
+    "label": "Kitap Koçu"
+  },
+  {
+    "id": "code-579",
+    "label": "Kitapçı"
+  },
+  {
+    "id": "code-580",
+    "label": "Kitlesel İletişim Uzmanı"
+  },
+  {
+    "id": "code-581",
+    "label": "Klarnetçi"
+  },
+  {
+    "id": "code-582",
+    "label": "Klasik Arkeolog"
+  },
+  {
+    "id": "code-583",
+    "label": "Klasik Edebiyatçı"
+  },
+  {
+    "id": "code-584",
+    "label": "Klimatolog (İklim Bilimci)"
+  },
+  {
+    "id": "code-585",
+    "label": "Klinik Araştırma Koordinatörü"
+  },
+  {
+    "id": "code-586",
+    "label": "Klinik Ecza Asistanı"
+  },
+  {
+    "id": "code-587",
+    "label": "Klinik Farmakoloji Profesörü"
+  },
+  {
+    "id": "code-588",
+    "label": "Klinik Veri Araştırmacısı"
+  },
+  {
+    "id": "code-589",
+    "label": "Koleksiyoncu"
+  },
+  {
+    "id": "code-590",
+    "label": "Komedyen"
+  },
+  {
+    "id": "code-591",
+    "label": "Komiser"
+  },
+  {
+    "id": "code-592",
+    "label": "Komiser Yardımcısı"
+  },
+  {
+    "id": "code-593",
+    "label": "Komisyoncu"
+  },
+  {
+    "id": "code-594",
+    "label": "Konserveci"
+  },
+  {
+    "id": "code-595",
+    "label": "Konsolos"
+  },
+  {
+    "id": "code-596",
+    "label": "Konsomatris"
+  },
+  {
+    "id": "code-597",
+    "label": "Kontrolör"
+  },
+  {
+    "id": "code-598",
+    "label": "Konuşma Uzmanı"
+  },
+  {
+    "id": "code-599",
+    "label": "Konuşma Yazarı"
+  },
+  {
+    "id": "code-600",
+    "label": "Konveyör Operatörü"
+  },
+  {
+    "id": "code-601",
+    "label": "Kopya Editörü"
+  },
+  {
+    "id": "code-602",
+    "label": "Kopyalayıcı"
+  },
+  {
+    "id": "code-603",
+    "label": "Koramiral"
+  },
+  {
+    "id": "code-604",
+    "label": "Koreograf"
+  },
+  {
+    "id": "code-605",
+    "label": "Korgeneral"
+  },
+  {
+    "id": "code-606",
+    "label": "Koro Ustası"
+  },
+  {
+    "id": "code-607",
+    "label": "Korozyon Kontrolörü"
+  },
+  {
+    "id": "code-608",
+    "label": "Korsan"
+  },
+  {
+    "id": "code-609",
+    "label": "Koruma Görevlisi"
+  },
+  {
+    "id": "code-610",
+    "label": "Koruma Teknisyeni"
+  },
+  {
+    "id": "code-611",
+    "label": "Kozmetoloji Uzmanı"
+  },
+  {
+    "id": "code-612",
+    "label": "Kozmolog"
+  },
+  {
+    "id": "code-613",
+    "label": "Krayobiyolog"
+  },
+  {
+    "id": "code-614",
+    "label": "Kreatif Danışman"
+  },
+  {
+    "id": "code-615",
+    "label": "Kredi Analisti"
+  },
+  {
+    "id": "code-616",
+    "label": "Kriminolog"
+  },
+  {
+    "id": "code-617",
+    "label": "Kriptopara Madencisi"
+  },
+  {
+    "id": "code-618",
+    "label": "Kriptozoolog"
+  },
+  {
+    "id": "code-619",
+    "label": "Kronobiyolog"
+  },
+  {
+    "id": "code-620",
+    "label": "Kronolog"
+  },
+  {
+    "id": "code-621",
+    "label": "Krupiyer"
+  },
+  {
+    "id": "code-622",
+    "label": "Kuaför"
+  },
+  {
+    "id": "code-623",
+    "label": "Kulak Burun Boğazcı"
+  },
+  {
+    "id": "code-624",
+    "label": "Kullanıcı Deneyimi (UX) Tasarımcısı"
+  },
+  {
+    "id": "code-625",
+    "label": "Kumarbaz"
+  },
+  {
+    "id": "code-626",
+    "label": "Kumaşçı"
+  },
+  {
+    "id": "code-627",
+    "label": "Kumcu"
+  },
+  {
+    "id": "code-628",
+    "label": "Kurban Bilimci"
+  },
+  {
+    "id": "code-629",
+    "label": "Kuru Temizlemeci"
+  },
+  {
+    "id": "code-630",
+    "label": "Kuruyemişçi"
+  },
+  {
+    "id": "code-631",
+    "label": "Kurye"
+  },
+  {
+    "id": "code-632",
+    "label": "Kuyumcu"
+  },
+  {
+    "id": "code-633",
+    "label": "Kuşçu"
+  },
+  {
+    "id": "code-634",
+    "label": "Kâhya"
+  },
+  {
+    "id": "code-635",
+    "label": "Kâtip"
+  },
+  {
+    "id": "code-636",
+    "label": "Kâğıtçı"
+  },
+  {
+    "id": "code-637",
+    "label": "Köfteci"
+  },
+  {
+    "id": "code-638",
+    "label": "Kök Hücre Araştırıcısı"
+  },
+  {
+    "id": "code-639",
+    "label": "Köken Bilimci"
+  },
+  {
+    "id": "code-640",
+    "label": "Kömürcü"
+  },
+  {
+    "id": "code-641",
+    "label": "Köpek Eğiticisi"
+  },
+  {
+    "id": "code-642",
+    "label": "Köşe Yazarı"
+  },
+  {
+    "id": "code-643",
+    "label": "Kültürel Antropolog"
+  },
+  {
+    "id": "code-644",
+    "label": "Kürkçü"
+  },
+  {
+    "id": "code-645",
+    "label": "Kütleçekim Fizikçisi"
+  },
+  {
+    "id": "code-646",
+    "label": "Kütüphaneci"
+  },
+  {
+    "id": "code-647",
+    "label": "Kırtasiyeci"
+  },
+  {
+    "id": "code-648",
+    "label": "Kıyaslamalı Edebiyat Uzmanı"
+  },
+  {
+    "id": "code-649",
+    "label": "Laborant"
+  },
+  {
+    "id": "code-650",
+    "label": "Laboratuar işçisi"
+  },
+  {
+    "id": "code-651",
+    "label": "Laboratuvar Asistanı"
+  },
+  {
+    "id": "code-652",
+    "label": "Laboratuvar Okutmanı"
+  },
+  {
+    "id": "code-653",
+    "label": "Laboratuvar Teknisyeni"
+  },
+  {
+    "id": "code-654",
+    "label": "Laboratuvar Yöneticisi"
+  },
+  {
+    "id": "code-655",
+    "label": "Lahmacuncu"
+  },
+  {
+    "id": "code-656",
+    "label": "Lehimci"
+  },
+  {
+    "id": "code-657",
+    "label": "Leksikolog"
+  },
+  {
+    "id": "code-658",
+    "label": "Lepidopterolog"
+  },
+  {
+    "id": "code-659",
+    "label": "Levazımcı"
+  },
+  {
+    "id": "code-660",
+    "label": "Likenolog"
+  },
+  {
+    "id": "code-661",
+    "label": "Limnolog"
+  },
+  {
+    "id": "code-662",
+    "label": "Litograf"
+  },
+  {
+    "id": "code-663",
+    "label": "Liturjiolog"
+  },
+  {
+    "id": "code-664",
+    "label": "Lobici"
+  },
+  {
+    "id": "code-665",
+    "label": "Lojistik Uzmanı"
+  },
+  {
+    "id": "code-666",
+    "label": "Lokantacı"
+  },
+  {
+    "id": "code-667",
+    "label": "Lokman"
+  },
+  {
+    "id": "code-668",
+    "label": "Lokomotifçi"
+  },
+  {
+    "id": "code-669",
+    "label": "Lostracı"
+  },
+  {
+    "id": "code-670",
+    "label": "Lostromo"
+  },
+  {
+    "id": "code-671",
+    "label": "Lyft Şoförü"
+  },
+  {
+    "id": "code-672",
+    "label": "Maden Hava Kontrol Teknisyeni"
+  },
+  {
+    "id": "code-673",
+    "label": "Madenci"
+  },
+  {
+    "id": "code-674",
+    "label": "Makastar"
+  },
+  {
+    "id": "code-675",
+    "label": "Makasçı"
+  },
+  {
+    "id": "code-676",
+    "label": "Maketçi"
+  },
+  {
+    "id": "code-677",
+    "label": "Makina Denetçisi"
+  },
+  {
+    "id": "code-678",
+    "label": "Makina Mühendisi"
+  },
+  {
+    "id": "code-679",
+    "label": "Makina Zabiti"
+  },
+  {
+    "id": "code-680",
+    "label": "Makina Öğrenmesi Araştırmacısı"
+  },
+  {
+    "id": "code-681",
+    "label": "Makinist"
+  },
+  {
+    "id": "code-682",
+    "label": "Makroekonomi Uzmanı"
+  },
+  {
+    "id": "code-683",
+    "label": "Makyajcı"
+  },
+  {
+    "id": "code-684",
+    "label": "Mali Hizmetler Uzmanı"
+  },
+  {
+    "id": "code-685",
+    "label": "Mali İşler Müdürü (CFO)"
+  },
+  {
+    "id": "code-686",
+    "label": "Manastır Baş Rahibesi"
+  },
+  {
+    "id": "code-687",
+    "label": "Manav"
+  },
+  {
+    "id": "code-688",
+    "label": "Manifaturacı"
+  },
+  {
+    "id": "code-689",
+    "label": "Manikürcü"
+  },
+  {
+    "id": "code-690",
+    "label": "Manken"
+  },
+  {
+    "id": "code-691",
+    "label": "Mantık Bilimci"
+  },
+  {
+    "id": "code-692",
+    "label": "Mantık Matematikçisi"
+  },
+  {
+    "id": "code-693",
+    "label": "Marangoz"
+  },
+  {
+    "id": "code-694",
+    "label": "Mareşal"
+  },
+  {
+    "id": "code-695",
+    "label": "Marka Tasarımcısı"
+  },
+  {
+    "id": "code-696",
+    "label": "Marka Uzmanı"
+  },
+  {
+    "id": "code-697",
+    "label": "Marka Yöneticisi"
+  },
+  {
+    "id": "code-698",
+    "label": "Masör"
+  },
+  {
+    "id": "code-699",
+    "label": "Masöz"
+  },
+  {
+    "id": "code-700",
+    "label": "Matador"
+  },
+  {
+    "id": "code-701",
+    "label": "Matbaacı"
+  },
+  {
+    "id": "code-702",
+    "label": "Matematiksel Analiz Uzmanı"
+  },
+  {
+    "id": "code-703",
+    "label": "Matematiksel Sosyolog"
+  },
+  {
+    "id": "code-704",
+    "label": "Matematikçi"
+  },
+  {
+    "id": "code-705",
+    "label": "Matkapçı"
+  },
+  {
+    "id": "code-706",
+    "label": "Medeni Hukuk Avukatı"
+  },
+  {
+    "id": "code-707",
+    "label": "Mekatronik Mühendisi"
+  },
+  {
+    "id": "code-708",
+    "label": "Memur"
+  },
+  {
+    "id": "code-709",
+    "label": "Menajer"
+  },
+  {
+    "id": "code-710",
+    "label": "Mermerci"
+  },
+  {
+    "id": "code-711",
+    "label": "Metal İşleyici"
+  },
+  {
+    "id": "code-712",
+    "label": "Metal İşçisi"
+  },
+  {
+    "id": "code-713",
+    "label": "Metalurji Mühendisi"
+  },
+  {
+    "id": "code-714",
+    "label": "Meteorolog"
+  },
+  {
+    "id": "code-715",
+    "label": "Meteoroloji Uzmanı"
+  },
+  {
+    "id": "code-716",
+    "label": "Metin Yazarı"
+  },
+  {
+    "id": "code-717",
+    "label": "Metodolog"
+  },
+  {
+    "id": "code-718",
+    "label": "Metrolog"
+  },
+  {
+    "id": "code-719",
+    "label": "Mevsimlik İşçi"
+  },
+  {
+    "id": "code-720",
+    "label": "Meydancı"
+  },
+  {
+    "id": "code-721",
+    "label": "Meyhaneci"
+  },
+  {
+    "id": "code-722",
+    "label": "Meyve İşçisi"
+  },
+  {
+    "id": "code-723",
+    "label": "Mezar Kazıcı"
+  },
+  {
+    "id": "code-724",
+    "label": "Mezarcı"
+  },
+  {
+    "id": "code-725",
+    "label": "Midyeci"
+  },
+  {
+    "id": "code-726",
+    "label": "Mikolog"
+  },
+  {
+    "id": "code-727",
+    "label": "Mikrobiyal Sistem Mühendisi"
+  },
+  {
+    "id": "code-728",
+    "label": "Mikrobiyolog"
+  },
+  {
+    "id": "code-729",
+    "label": "Mikroekonomi Uzmanı"
+  },
+  {
+    "id": "code-730",
+    "label": "Mikromorfolog"
+  },
+  {
+    "id": "code-731",
+    "label": "Milletvekili"
+  },
+  {
+    "id": "code-732",
+    "label": "Mimar"
+  },
+  {
+    "id": "code-733",
+    "label": "Misyoner"
+  },
+  {
+    "id": "code-734",
+    "label": "Mitolog"
+  },
+  {
+    "id": "code-735",
+    "label": "Mobil Uygulama (App) Geliştiricisi"
+  },
+  {
+    "id": "code-736",
+    "label": "Mobil Uygulama (App) Tasarımcısı"
+  },
+  {
+    "id": "code-737",
+    "label": "Mobilyacı"
+  },
+  {
+    "id": "code-738",
+    "label": "Moda Tasarımcısı"
+  },
+  {
+    "id": "code-739",
+    "label": "Modacı"
+  },
+  {
+    "id": "code-740",
+    "label": "Model"
+  },
+  {
+    "id": "code-741",
+    "label": "Modelci"
+  },
+  {
+    "id": "code-742",
+    "label": "Modelist"
+  },
+  {
+    "id": "code-743",
+    "label": "Moderatör"
+  },
+  {
+    "id": "code-744",
+    "label": "Moleküler Bilimci"
+  },
+  {
+    "id": "code-745",
+    "label": "Moleküler Biyolog"
+  },
+  {
+    "id": "code-746",
+    "label": "Moleküler Fizikçi"
+  },
+  {
+    "id": "code-747",
+    "label": "Moleküler ve Hücresel Sinirbilimci"
+  },
+  {
+    "id": "code-748",
+    "label": "Montajcı"
+  },
+  {
+    "id": "code-749",
+    "label": "Montör"
+  },
+  {
+    "id": "code-750",
+    "label": "Morfolog"
+  },
+  {
+    "id": "code-751",
+    "label": "Motor Tamircisi"
+  },
+  {
+    "id": "code-752",
+    "label": "Motorcu"
+  },
+  {
+    "id": "code-753",
+    "label": "Muallim"
+  },
+  {
+    "id": "code-754",
+    "label": "Mucit"
+  },
+  {
+    "id": "code-755",
+    "label": "Muhabbet Tellalı"
+  },
+  {
+    "id": "code-756",
+    "label": "Muhabir"
+  },
+  {
+    "id": "code-757",
+    "label": "Muhafız"
+  },
+  {
+    "id": "code-758",
+    "label": "Muhasebeci"
+  },
+  {
+    "id": "code-759",
+    "label": "Muhtar"
+  },
+  {
+    "id": "code-760",
+    "label": "Multimedya Tasarımcısı"
+  },
+  {
+    "id": "code-761",
+    "label": "Mumyalayıcı"
+  },
+  {
+    "id": "code-762",
+    "label": "Muzcu"
+  },
+  {
+    "id": "code-763",
+    "label": "Mübaşir"
+  },
+  {
+    "id": "code-764",
+    "label": "Müdür"
+  },
+  {
+    "id": "code-765",
+    "label": "Müdür Yardımcısı"
+  },
+  {
+    "id": "code-766",
+    "label": "Müezzin"
+  },
+  {
+    "id": "code-767",
+    "label": "Müfettiş"
+  },
+  {
+    "id": "code-768",
+    "label": "Mühendis"
+  },
+  {
+    "id": "code-769",
+    "label": "Mühendislik Teknisyeni"
+  },
+  {
+    "id": "code-770",
+    "label": "Mürebbiye"
+  },
+  {
+    "id": "code-771",
+    "label": "Müsteşar"
+  },
+  {
+    "id": "code-772",
+    "label": "Müteahhit"
+  },
+  {
+    "id": "code-773",
+    "label": "Mütercim"
+  },
+  {
+    "id": "code-774",
+    "label": "Müze Bilimci"
+  },
+  {
+    "id": "code-775",
+    "label": "Müze Müdürü"
+  },
+  {
+    "id": "code-776",
+    "label": "Müzik Bilimci"
+  },
+  {
+    "id": "code-777",
+    "label": "Müzik Direktörü"
+  },
+  {
+    "id": "code-778",
+    "label": "Müzik Enstrümanı Teknsiyeni"
+  },
+  {
+    "id": "code-779",
+    "label": "Müzik Yönetmeni"
+  },
+  {
+    "id": "code-780",
+    "label": "Müzikolog"
+  },
+  {
+    "id": "code-781",
+    "label": "Müzisyen"
+  },
+  {
+    "id": "code-782",
+    "label": "Müşavir"
+  },
+  {
+    "id": "code-783",
+    "label": "Nakliyeci"
+  },
+  {
+    "id": "code-784",
+    "label": "Nakışçı"
+  },
+  {
+    "id": "code-785",
+    "label": "Nalbant"
+  },
+  {
+    "id": "code-786",
+    "label": "Nalbur"
+  },
+  {
+    "id": "code-787",
+    "label": "Nalıncı"
+  },
+  {
+    "id": "code-788",
+    "label": "Nanobilimci"
+  },
+  {
+    "id": "code-789",
+    "label": "Nanoteknoloji Uzmanı"
+  },
+  {
+    "id": "code-790",
+    "label": "Nefrolog"
+  },
+  {
+    "id": "code-791",
+    "label": "Nekrolog"
+  },
+  {
+    "id": "code-792",
+    "label": "Nematolog"
+  },
+  {
+    "id": "code-793",
+    "label": "Neonatolog"
+  },
+  {
+    "id": "code-794",
+    "label": "Nicel Genetikçi"
+  },
+  {
+    "id": "code-795",
+    "label": "Noter"
+  },
+  {
+    "id": "code-796",
+    "label": "Nörofizyolog"
+  },
+  {
+    "id": "code-797",
+    "label": "Nöropatolog"
+  },
+  {
+    "id": "code-798",
+    "label": "Nöropsikolog"
+  },
+  {
+    "id": "code-799",
+    "label": "Nöroradyolog"
+  },
+  {
+    "id": "code-800",
+    "label": "Nükleer Fizikçi"
+  },
+  {
+    "id": "code-801",
+    "label": "Nükleer Santral Çalışanı"
+  },
+  {
+    "id": "code-802",
+    "label": "Obuacı"
+  },
+  {
+    "id": "code-803",
+    "label": "Ocakçı"
+  },
+  {
+    "id": "code-804",
+    "label": "Odacı"
+  },
+  {
+    "id": "code-805",
+    "label": "Oduncu"
+  },
+  {
+    "id": "code-806",
+    "label": "Okul Bilim Teknisyeni"
+  },
+  {
+    "id": "code-807",
+    "label": "Okul Müdürü"
+  },
+  {
+    "id": "code-808",
+    "label": "Okutman"
+  },
+  {
+    "id": "code-809",
+    "label": "Okçu"
+  },
+  {
+    "id": "code-810",
+    "label": "Olasılık İstatistikçisi"
+  },
+  {
+    "id": "code-811",
+    "label": "Onbaşı"
+  },
+  {
+    "id": "code-812",
+    "label": "Onkolog"
+  },
+  {
+    "id": "code-813",
+    "label": "Onkoloji Araştırmacısı"
+  },
+  {
+    "id": "code-814",
+    "label": "Onomatolog"
+  },
+  {
+    "id": "code-815",
+    "label": "Ontolog"
+  },
+  {
+    "id": "code-816",
+    "label": "Opera Sanatçısı"
+  },
+  {
+    "id": "code-817",
+    "label": "Operasyon Araştırma Analizi Yöneticisi"
+  },
+  {
+    "id": "code-818",
+    "label": "Operasyon Birim Müdürü"
+  },
+  {
+    "id": "code-819",
+    "label": "Operasyon Memuru"
+  },
+  {
+    "id": "code-820",
+    "label": "Operasyonel Araştırma Mühendisi"
+  },
+  {
+    "id": "code-821",
+    "label": "Operatör"
+  },
+  {
+    "id": "code-822",
+    "label": "Optalmolog"
+  },
+  {
+    "id": "code-823",
+    "label": "Optik Fizikçi"
+  },
+  {
+    "id": "code-824",
+    "label": "Ordinaryus Profesör"
+  },
+  {
+    "id": "code-825",
+    "label": "Organik Laboratuvar İşçisi"
+  },
+  {
+    "id": "code-826",
+    "label": "Organizasyon Lideri"
+  },
+  {
+    "id": "code-827",
+    "label": "Orgcu"
+  },
+  {
+    "id": "code-828",
+    "label": "Orgeneral"
+  },
+  {
+    "id": "code-829",
+    "label": "Orman Mühendisi"
+  },
+  {
+    "id": "code-830",
+    "label": "Orman İşçisi"
+  },
+  {
+    "id": "code-831",
+    "label": "Ornitolog (Kuş Bilimci)"
+  },
+  {
+    "id": "code-832",
+    "label": "Ortopedist"
+  },
+  {
+    "id": "code-833",
+    "label": "Osteolog"
+  },
+  {
+    "id": "code-834",
+    "label": "Otel Çalışanı"
+  },
+  {
+    "id": "code-835",
+    "label": "Otel İşçisi"
+  },
+  {
+    "id": "code-836",
+    "label": "Otelci"
+  },
+  {
+    "id": "code-837",
+    "label": "Oto Elektrikçisi"
+  },
+  {
+    "id": "code-838",
+    "label": "Oto Lastik Tamircisi"
+  },
+  {
+    "id": "code-839",
+    "label": "Oto Tamircisi"
+  },
+  {
+    "id": "code-840",
+    "label": "Oto Yedek Parçacı"
+  },
+  {
+    "id": "code-841",
+    "label": "Otogar veya Lokanta Ayakçısı"
+  },
+  {
+    "id": "code-842",
+    "label": "Otolarinjolog"
+  },
+  {
+    "id": "code-843",
+    "label": "Otomobil Elektrik Uzmanı"
+  },
+  {
+    "id": "code-844",
+    "label": "Otomobil Teknisyeni"
+  },
+  {
+    "id": "code-845",
+    "label": "Overlokçu"
+  },
+  {
+    "id": "code-846",
+    "label": "Oymacı"
+  },
+  {
+    "id": "code-847",
+    "label": "Oyun Hostesi"
+  },
+  {
+    "id": "code-848",
+    "label": "Oyun Yazarı"
+  },
+  {
+    "id": "code-849",
+    "label": "Oyuncakçı"
+  },
+  {
+    "id": "code-850",
+    "label": "Oyuncu"
+  },
+  {
+    "id": "code-851",
+    "label": "Oşinograf"
+  },
+  {
+    "id": "code-852",
+    "label": "Paketleyici"
+  },
+  {
+    "id": "code-853",
+    "label": "Paleobiyolog"
+  },
+  {
+    "id": "code-854",
+    "label": "Paleoekolog"
+  },
+  {
+    "id": "code-855",
+    "label": "Paleontolog"
+  },
+  {
+    "id": "code-856",
+    "label": "Paleopatalog"
+  },
+  {
+    "id": "code-857",
+    "label": "Paleozoolog"
+  },
+  {
+    "id": "code-858",
+    "label": "Palinolog"
+  },
+  {
+    "id": "code-859",
+    "label": "Palyaço"
+  },
+  {
+    "id": "code-860",
+    "label": "Pandomimci"
+  },
+  {
+    "id": "code-861",
+    "label": "Pansiyoncu"
+  },
+  {
+    "id": "code-862",
+    "label": "Pansumancı"
+  },
+  {
+    "id": "code-863",
+    "label": "Papa"
+  },
+  {
+    "id": "code-864",
+    "label": "Papaz"
+  },
+  {
+    "id": "code-865",
+    "label": "Paralı asker"
+  },
+  {
+    "id": "code-866",
+    "label": "Paramedik"
+  },
+  {
+    "id": "code-867",
+    "label": "Parazitolog"
+  },
+  {
+    "id": "code-868",
+    "label": "Park bekçisi"
+  },
+  {
+    "id": "code-869",
+    "label": "Pastörizör"
+  },
+  {
+    "id": "code-870",
+    "label": "Patofizyolog"
+  },
+  {
+    "id": "code-871",
+    "label": "Patolog"
+  },
+  {
+    "id": "code-872",
+    "label": "Pazar Araştırmacısı"
+  },
+  {
+    "id": "code-873",
+    "label": "Pazarcı"
+  },
+  {
+    "id": "code-874",
+    "label": "Pazarlama Müdürü"
+  },
+  {
+    "id": "code-875",
+    "label": "Pazarlama Uzmanı"
+  },
+  {
+    "id": "code-876",
+    "label": "Pediyatrist"
+  },
+  {
+    "id": "code-877",
+    "label": "Pedolog"
+  },
+  {
+    "id": "code-878",
+    "label": "Pencereci"
+  },
+  {
+    "id": "code-879",
+    "label": "Personel Müdürü"
+  },
+  {
+    "id": "code-880",
+    "label": "Perukçu"
+  },
+  {
+    "id": "code-881",
+    "label": "Petrol Bilimci"
+  },
+  {
+    "id": "code-882",
+    "label": "Petrol Mühendisi"
+  },
+  {
+    "id": "code-883",
+    "label": "Peynirci"
+  },
+  {
+    "id": "code-884",
+    "label": "Peyzaj Mimarı"
+  },
+  {
+    "id": "code-885",
+    "label": "Peyzaj Teknikeri"
+  },
+  {
+    "id": "code-886",
+    "label": "Peçeteci"
+  },
+  {
+    "id": "code-887",
+    "label": "Pideci"
+  },
+  {
+    "id": "code-888",
+    "label": "Pilavcı"
+  },
+  {
+    "id": "code-889",
+    "label": "Pilot"
+  },
+  {
+    "id": "code-890",
+    "label": "Piskopos"
+  },
+  {
+    "id": "code-891",
+    "label": "Piyade"
+  },
+  {
+    "id": "code-892",
+    "label": "Piyango Satıcısı"
+  },
+  {
+    "id": "code-893",
+    "label": "Piyanist"
+  },
+  {
+    "id": "code-894",
+    "label": "Piyasa Danışmanı"
+  },
+  {
+    "id": "code-895",
+    "label": "Piyasa Erişim Analisti"
+  },
+  {
+    "id": "code-896",
+    "label": "Pizzacı"
+  },
+  {
+    "id": "code-897",
+    "label": "Plazma Fizikçisi"
+  },
+  {
+    "id": "code-898",
+    "label": "Podcast Üreticisi"
+  },
+  {
+    "id": "code-899",
+    "label": "Polis"
+  },
+  {
+    "id": "code-900",
+    "label": "Polis Memuru"
+  },
+  {
+    "id": "code-901",
+    "label": "Polis İmdat (155) Operatörü"
+  },
+  {
+    "id": "code-902",
+    "label": "Polis Şefi"
+  },
+  {
+    "id": "code-903",
+    "label": "Polisajcı"
+  },
+  {
+    "id": "code-904",
+    "label": "Politik Modeller ve Metotlar Uzmanı"
+  },
+  {
+    "id": "code-905",
+    "label": "Politika Bilimcisi"
+  },
+  {
+    "id": "code-906",
+    "label": "Politika Teorisyeni"
+  },
+  {
+    "id": "code-907",
+    "label": "Politikacı"
+  },
+  {
+    "id": "code-908",
+    "label": "Pompacı"
+  },
+  {
+    "id": "code-909",
+    "label": "Popülasyon Genetikçisi"
+  },
+  {
+    "id": "code-910",
+    "label": "Postacı"
+  },
+  {
+    "id": "code-911",
+    "label": "Postane Müdürü"
+  },
+  {
+    "id": "code-912",
+    "label": "Postane Çalışanı"
+  },
+  {
+    "id": "code-913",
+    "label": "Primatolog"
+  },
+  {
+    "id": "code-914",
+    "label": "Profesyonel Programlar Asistanı"
+  },
+  {
+    "id": "code-915",
+    "label": "Profesör"
+  },
+  {
+    "id": "code-916",
+    "label": "Programlama Dilleri Uzmanı"
+  },
+  {
+    "id": "code-917",
+    "label": "Proje Yöneticisi"
+  },
+  {
+    "id": "code-918",
+    "label": "Proktolog"
+  },
+  {
+    "id": "code-919",
+    "label": "Protokol Görevlisi"
+  },
+  {
+    "id": "code-920",
+    "label": "Protozoolog"
+  },
+  {
+    "id": "code-921",
+    "label": "Psikiyatr"
+  },
+  {
+    "id": "code-922",
+    "label": "Psikobiyolog"
+  },
+  {
+    "id": "code-923",
+    "label": "Psikodilbilimci"
+  },
+  {
+    "id": "code-924",
+    "label": "Psikolog"
+  },
+  {
+    "id": "code-925",
+    "label": "Psikolojik Danışmanlık ve Rehberlik (PDR)"
+  },
+  {
+    "id": "code-926",
+    "label": "Psikopatolog"
+  },
+  {
+    "id": "code-927",
+    "label": "Pteridolog"
+  },
+  {
+    "id": "code-928",
+    "label": "Radyo ve Televizyon Teknisyeni"
+  },
+  {
+    "id": "code-929",
+    "label": "Radyobiyolog"
+  },
+  {
+    "id": "code-930",
+    "label": "Radyograf"
+  },
+  {
+    "id": "code-931",
+    "label": "Radyolog"
+  },
+  {
+    "id": "code-932",
+    "label": "Radyoloji Teknisyeni/Teknikeri"
+  },
+  {
+    "id": "code-933",
+    "label": "Radyoterapist"
+  },
+  {
+    "id": "code-934",
+    "label": "Redaktör"
+  },
+  {
+    "id": "code-935",
+    "label": "Rehabilitasyon Mühendisi"
+  },
+  {
+    "id": "code-936",
+    "label": "Rehber"
+  },
+  {
+    "id": "code-937",
+    "label": "Rejisör"
+  },
+  {
+    "id": "code-938",
+    "label": "Reklamcı"
+  },
+  {
+    "id": "code-939",
+    "label": "Rektör"
+  },
+  {
+    "id": "code-940",
+    "label": "Rektör Yardımcısı"
+  },
+  {
+    "id": "code-941",
+    "label": "Remayözcü"
+  },
+  {
+    "id": "code-942",
+    "label": "Resepsiyon Memuru"
+  },
+  {
+    "id": "code-943",
+    "label": "Resepsiyonist"
+  },
+  {
+    "id": "code-944",
+    "label": "Ressam"
+  },
+  {
+    "id": "code-945",
+    "label": "Retorik Araştırmalar Uzmanı"
+  },
+  {
+    "id": "code-946",
+    "label": "Robotik Uzmanı"
+  },
+  {
+    "id": "code-947",
+    "label": "Robotikçi"
+  },
+  {
+    "id": "code-948",
+    "label": "Romatolog"
+  },
+  {
+    "id": "code-949",
+    "label": "Rot Balansçı"
+  },
+  {
+    "id": "code-950",
+    "label": "Röntgenci"
+  },
+  {
+    "id": "code-951",
+    "label": "Rötüş Uzmanı"
+  },
+  {
+    "id": "code-952",
+    "label": "SEO Uzmanı"
+  },
+  {
+    "id": "code-953",
+    "label": "STEM Kariyer Danışmanı"
+  },
+  {
+    "id": "code-954",
+    "label": "Saat Tamircisi"
+  },
+  {
+    "id": "code-955",
+    "label": "Saatçi"
+  },
+  {
+    "id": "code-956",
+    "label": "Safsata Uzmanı"
+  },
+  {
+    "id": "code-957",
+    "label": "Sahil Koruma"
+  },
+  {
+    "id": "code-958",
+    "label": "Saksofoncu"
+  },
+  {
+    "id": "code-959",
+    "label": "Salepçi"
+  },
+  {
+    "id": "code-960",
+    "label": "Sanal Asistan"
+  },
+  {
+    "id": "code-961",
+    "label": "Sanat Eleştirmeni"
+  },
+  {
+    "id": "code-962",
+    "label": "Sanat Restoratörü"
+  },
+  {
+    "id": "code-963",
+    "label": "Sanat Tarihçisi"
+  },
+  {
+    "id": "code-964",
+    "label": "Sanat Yönetmeni"
+  },
+  {
+    "id": "code-965",
+    "label": "Sanayici"
+  },
+  {
+    "id": "code-966",
+    "label": "Sansürcü"
+  },
+  {
+    "id": "code-967",
+    "label": "Santral Memuru"
+  },
+  {
+    "id": "code-968",
+    "label": "Saraç"
+  },
+  {
+    "id": "code-969",
+    "label": "Sarraf"
+  },
+  {
+    "id": "code-970",
+    "label": "Satın Alma Müdürü"
+  },
+  {
+    "id": "code-971",
+    "label": "Satış Elemanı"
+  },
+  {
+    "id": "code-972",
+    "label": "Satış Müdürü"
+  },
+  {
+    "id": "code-973",
+    "label": "Savaşçı"
+  },
+  {
+    "id": "code-974",
+    "label": "Savcı"
+  },
+  {
+    "id": "code-975",
+    "label": "Sayı Teorisyeni"
+  },
+  {
+    "id": "code-976",
+    "label": "Saz Şairi"
+  },
+  {
+    "id": "code-977",
+    "label": "Sağlık Araştırmaları Asistanı"
+  },
+  {
+    "id": "code-978",
+    "label": "Sağlık Bilimci"
+  },
+  {
+    "id": "code-979",
+    "label": "Sağlık Teknisyeni"
+  },
+  {
+    "id": "code-980",
+    "label": "Sağlık Teknolojiileri Asistanı"
+  },
+  {
+    "id": "code-981",
+    "label": "Sedimentolog"
+  },
+  {
+    "id": "code-982",
+    "label": "Sekreter"
+  },
+  {
+    "id": "code-983",
+    "label": "Seksolog"
+  },
+  {
+    "id": "code-984",
+    "label": "Selüloz Operatörü"
+  },
+  {
+    "id": "code-985",
+    "label": "Semantikçi"
+  },
+  {
+    "id": "code-986",
+    "label": "Semptom Bilimci"
+  },
+  {
+    "id": "code-987",
+    "label": "Senarist"
+  },
+  {
+    "id": "code-988",
+    "label": "Sepetçi"
+  },
+  {
+    "id": "code-989",
+    "label": "Seramik Model Yapıcısı"
+  },
+  {
+    "id": "code-990",
+    "label": "Serbest Muhasebeci Mali Müşavir"
+  },
+  {
+    "id": "code-991",
+    "label": "Serbest Yazar"
+  },
+  {
+    "id": "code-992",
+    "label": "Ses Bilimci"
+  },
+  {
+    "id": "code-993",
+    "label": "Ses Efekti Teknisyeni"
+  },
+  {
+    "id": "code-994",
+    "label": "Ses Sanatçısı"
+  },
+  {
+    "id": "code-995",
+    "label": "Ses Teknisyeni"
+  },
+  {
+    "id": "code-996",
+    "label": "Seslendirme Sanatçısı"
+  },
+  {
+    "id": "code-997",
+    "label": "Sevk Operatörü"
+  },
+  {
+    "id": "code-998",
+    "label": "Seyis"
+  },
+  {
+    "id": "code-999",
+    "label": "Siber Güvenlik Uzmanı"
+  },
+  {
+    "id": "code-1000",
+    "label": "Sicil Memuru"
+  },
+  {
+    "id": "code-1001",
+    "label": "Sigorta Temsilcisi"
+  },
+  {
+    "id": "code-1002",
+    "label": "Sigortacı"
+  },
+  {
+    "id": "code-1003",
+    "label": "Sihirbaz"
+  },
+  {
+    "id": "code-1004",
+    "label": "Silahçı"
+  },
+  {
+    "id": "code-1005",
+    "label": "Silahşör"
+  },
+  {
+    "id": "code-1006",
+    "label": "Silindir Operatörü"
+  },
+  {
+    "id": "code-1007",
+    "label": "Simitçi"
+  },
+  {
+    "id": "code-1008",
+    "label": "Simyacı"
+  },
+  {
+    "id": "code-1009",
+    "label": "Sinirbilimci (Nörobiyolog)"
+  },
+  {
+    "id": "code-1010",
+    "label": "Sirk Sanatçısı"
+  },
+  {
+    "id": "code-1011",
+    "label": "Sismoloji Uzmanı"
+  },
+  {
+    "id": "code-1012",
+    "label": "Sistem Analisti"
+  },
+  {
+    "id": "code-1013",
+    "label": "Sistem Geliştirici"
+  },
+  {
+    "id": "code-1014",
+    "label": "Sistem Mühendisi"
+  },
+  {
+    "id": "code-1015",
+    "label": "Sistem Sinirbilimcisi"
+  },
+  {
+    "id": "code-1016",
+    "label": "Sistem Tasarımcısı"
+  },
+  {
+    "id": "code-1017",
+    "label": "Sistem yöneticisi"
+  },
+  {
+    "id": "code-1018",
+    "label": "Sitolog"
+  },
+  {
+    "id": "code-1019",
+    "label": "Sitoteknoloji Uzmanı"
+  },
+  {
+    "id": "code-1020",
+    "label": "Sokak Satıcısı"
+  },
+  {
+    "id": "code-1021",
+    "label": "Sokak Çalgıcısı"
+  },
+  {
+    "id": "code-1022",
+    "label": "Son Ütücü"
+  },
+  {
+    "id": "code-1023",
+    "label": "Sorgu Hâkimi"
+  },
+  {
+    "id": "code-1024",
+    "label": "Sosyal Antropolog"
+  },
+  {
+    "id": "code-1025",
+    "label": "Sosyal Hizmet Uzmanı"
+  },
+  {
+    "id": "code-1026",
+    "label": "Sosyal Katman Uzmanı"
+  },
+  {
+    "id": "code-1027",
+    "label": "Sosyal Medya Danışmanı"
+  },
+  {
+    "id": "code-1028",
+    "label": "Sosyal Medya Uzmanı"
+  },
+  {
+    "id": "code-1029",
+    "label": "Sosyal Medya Yöneticisi"
+  },
+  {
+    "id": "code-1030",
+    "label": "Sosyal Psikolog"
+  },
+  {
+    "id": "code-1031",
+    "label": "Sosyobiyolog"
+  },
+  {
+    "id": "code-1032",
+    "label": "Sosyodilbilimci"
+  },
+  {
+    "id": "code-1033",
+    "label": "Sosyolog"
+  },
+  {
+    "id": "code-1034",
+    "label": "Sosyoloji Teorisyeni"
+  },
+  {
+    "id": "code-1035",
+    "label": "Soğuk Demirci"
+  },
+  {
+    "id": "code-1036",
+    "label": "Spiker"
+  },
+  {
+    "id": "code-1037",
+    "label": "Spor Müdürü"
+  },
+  {
+    "id": "code-1038",
+    "label": "Standart Mühendisi"
+  },
+  {
+    "id": "code-1039",
+    "label": "Stenograf"
+  },
+  {
+    "id": "code-1040",
+    "label": "Stilist"
+  },
+  {
+    "id": "code-1041",
+    "label": "Striptizci"
+  },
+  {
+    "id": "code-1042",
+    "label": "Su Kaynakları Mühendisi"
+  },
+  {
+    "id": "code-1043",
+    "label": "Su Kültürü Uzmanı"
+  },
+  {
+    "id": "code-1044",
+    "label": "Su Tesisatçısı"
+  },
+  {
+    "id": "code-1045",
+    "label": "Su Ürünleri Uzmanı"
+  },
+  {
+    "id": "code-1046",
+    "label": "Subay"
+  },
+  {
+    "id": "code-1047",
+    "label": "Sucu"
+  },
+  {
+    "id": "code-1048",
+    "label": "Suflör"
+  },
+  {
+    "id": "code-1049",
+    "label": "Sulh Hâkimi"
+  },
+  {
+    "id": "code-1050",
+    "label": "Sunucu"
+  },
+  {
+    "id": "code-1051",
+    "label": "Susuz Araç Yıkama"
+  },
+  {
+    "id": "code-1052",
+    "label": "Sünnetçi"
+  },
+  {
+    "id": "code-1053",
+    "label": "Süpermarket Çalışanı"
+  },
+  {
+    "id": "code-1054",
+    "label": "Sürdürülebilirlik Mühendisi"
+  },
+  {
+    "id": "code-1055",
+    "label": "Sürdürülebilirlik Yöneticisi"
+  },
+  {
+    "id": "code-1056",
+    "label": "Süreç Mühendisi"
+  },
+  {
+    "id": "code-1057",
+    "label": "Sürveyan"
+  },
+  {
+    "id": "code-1058",
+    "label": "Sürücüsüz Araç Mühendisi"
+  },
+  {
+    "id": "code-1059",
+    "label": "Sütanne"
+  },
+  {
+    "id": "code-1060",
+    "label": "Sütçü"
+  },
+  {
+    "id": "code-1061",
+    "label": "Sınırlı Baş Makinist"
+  },
+  {
+    "id": "code-1062",
+    "label": "Sıtma Bilimci"
+  },
+  {
+    "id": "code-1063",
+    "label": "Tabakçı"
+  },
+  {
+    "id": "code-1064",
+    "label": "Tabelacı"
+  },
+  {
+    "id": "code-1065",
+    "label": "Tahsildar"
+  },
+  {
+    "id": "code-1066",
+    "label": "Tahıl Bilimcisi"
+  },
+  {
+    "id": "code-1067",
+    "label": "Tahıl Uzmanı"
+  },
+  {
+    "id": "code-1068",
+    "label": "Tahıl İşleme Operatörü"
+  },
+  {
+    "id": "code-1069",
+    "label": "Taksi Şoförü"
+  },
+  {
+    "id": "code-1070",
+    "label": "Taksici"
+  },
+  {
+    "id": "code-1071",
+    "label": "Taksonomist"
+  },
+  {
+    "id": "code-1072",
+    "label": "Tamirci"
+  },
+  {
+    "id": "code-1073",
+    "label": "Tarih Bilimci"
+  },
+  {
+    "id": "code-1074",
+    "label": "Tarihsel Dilbilimci"
+  },
+  {
+    "id": "code-1075",
+    "label": "Tarihsel Sosyolog"
+  },
+  {
+    "id": "code-1076",
+    "label": "Tarihçi"
+  },
+  {
+    "id": "code-1077",
+    "label": "Tarım Mühendisi"
+  },
+  {
+    "id": "code-1078",
+    "label": "Tarım işçisi"
+  },
+  {
+    "id": "code-1079",
+    "label": "Tasarımcı"
+  },
+  {
+    "id": "code-1080",
+    "label": "Tatlıcı"
+  },
+  {
+    "id": "code-1081",
+    "label": "Tavukçu"
+  },
+  {
+    "id": "code-1082",
+    "label": "Tayfa"
+  },
+  {
+    "id": "code-1083",
+    "label": "Taşlayıcı"
+  },
+  {
+    "id": "code-1084",
+    "label": "Taşçı"
+  },
+  {
+    "id": "code-1085",
+    "label": "Taşımacılık Sistemleri Mühendisi"
+  },
+  {
+    "id": "code-1086",
+    "label": "Tefeci"
+  },
+  {
+    "id": "code-1087",
+    "label": "Teknik Editör"
+  },
+  {
+    "id": "code-1088",
+    "label": "Teknik Yazar"
+  },
+  {
+    "id": "code-1089",
+    "label": "Tekniker"
+  },
+  {
+    "id": "code-1090",
+    "label": "Teknisyen"
+  },
+  {
+    "id": "code-1091",
+    "label": "Teknisyen Asistanı"
+  },
+  {
+    "id": "code-1092",
+    "label": "Teknoloji Uzmanı"
+  },
+  {
+    "id": "code-1093",
+    "label": "Tekstil İşçisi"
+  },
+  {
+    "id": "code-1094",
+    "label": "Telefon operatörü"
+  },
+  {
+    "id": "code-1095",
+    "label": "Telekomünikasyon Mühendisi"
+  },
+  {
+    "id": "code-1096",
+    "label": "Telekomünikasyon Çalışanı"
+  },
+  {
+    "id": "code-1097",
+    "label": "Telekız"
+  },
+  {
+    "id": "code-1098",
+    "label": "Teletıp Hekimi"
+  },
+  {
+    "id": "code-1099",
+    "label": "Televizyon Tamircisi"
+  },
+  {
+    "id": "code-1100",
+    "label": "Temel Parçacık Fizikçisi"
+  },
+  {
+    "id": "code-1101",
+    "label": "Temizlikçi"
+  },
+  {
+    "id": "code-1102",
+    "label": "Temsilci"
+  },
+  {
+    "id": "code-1103",
+    "label": "Teorik Biyolog"
+  },
+  {
+    "id": "code-1104",
+    "label": "Teorik Fizikçi"
+  },
+  {
+    "id": "code-1105",
+    "label": "Terapist"
+  },
+  {
+    "id": "code-1106",
+    "label": "Tercüman"
+  },
+  {
+    "id": "code-1107",
+    "label": "Terepati Müdürü"
+  },
+  {
+    "id": "code-1108",
+    "label": "Terzi"
+  },
+  {
+    "id": "code-1109",
+    "label": "Tesisatçı"
+  },
+  {
+    "id": "code-1110",
+    "label": "Test Mühendisi"
+  },
+  {
+    "id": "code-1111",
+    "label": "Test Pilotu"
+  },
+  {
+    "id": "code-1112",
+    "label": "Tesviyeci"
+  },
+  {
+    "id": "code-1113",
+    "label": "Tezgahtar"
+  },
+  {
+    "id": "code-1114",
+    "label": "Teğmen"
+  },
+  {
+    "id": "code-1115",
+    "label": "Teşrifatçı"
+  },
+  {
+    "id": "code-1116",
+    "label": "Ticaret Hukuku Avukatı"
+  },
+  {
+    "id": "code-1117",
+    "label": "Tiyatro Yönetmeni"
+  },
+  {
+    "id": "code-1118",
+    "label": "Toksikolog"
+  },
+  {
+    "id": "code-1119",
+    "label": "Tombalacı"
+  },
+  {
+    "id": "code-1120",
+    "label": "Toplam Kalite Müdürü"
+  },
+  {
+    "id": "code-1121",
+    "label": "Toplum Politikaları Uzmanı"
+  },
+  {
+    "id": "code-1122",
+    "label": "Toplum Sağlığı Uzmanı"
+  },
+  {
+    "id": "code-1123",
+    "label": "Toplumsal Beslenme Uzmanı"
+  },
+  {
+    "id": "code-1124",
+    "label": "Topolog"
+  },
+  {
+    "id": "code-1125",
+    "label": "Toprak Bilimci"
+  },
+  {
+    "id": "code-1126",
+    "label": "Topçu"
+  },
+  {
+    "id": "code-1127",
+    "label": "Tornacı"
+  },
+  {
+    "id": "code-1128",
+    "label": "Toz Kontrol Teknisyeni"
+  },
+  {
+    "id": "code-1129",
+    "label": "Tramvay Operatörü"
+  },
+  {
+    "id": "code-1130",
+    "label": "Tribolog"
+  },
+  {
+    "id": "code-1131",
+    "label": "Tuhafiyeci"
+  },
+  {
+    "id": "code-1132",
+    "label": "Turizm Acentesi"
+  },
+  {
+    "id": "code-1133",
+    "label": "Turizmci"
+  },
+  {
+    "id": "code-1134",
+    "label": "Turşucu"
+  },
+  {
+    "id": "code-1135",
+    "label": "Tuzcu"
+  },
+  {
+    "id": "code-1136",
+    "label": "Tuğgeneral"
+  },
+  {
+    "id": "code-1137",
+    "label": "Tuğlacı"
+  },
+  {
+    "id": "code-1138",
+    "label": "Twitch Yayıncısı"
+  },
+  {
+    "id": "code-1139",
+    "label": "Tümamiral"
+  },
+  {
+    "id": "code-1140",
+    "label": "Tümgeneral"
+  },
+  {
+    "id": "code-1141",
+    "label": "Tıbbi Araştırma Teknisyeni"
+  },
+  {
+    "id": "code-1142",
+    "label": "Tıbbi Fizik Araştırmacısı"
+  },
+  {
+    "id": "code-1143",
+    "label": "Tıbbi Hizmetler Asistanı"
+  },
+  {
+    "id": "code-1144",
+    "label": "Tıbbi İletişim Müdürü"
+  },
+  {
+    "id": "code-1145",
+    "label": "Tıp Bilimci"
+  },
+  {
+    "id": "code-1146",
+    "label": "Tıp Yazarı"
+  },
+  {
+    "id": "code-1147",
+    "label": "Uber Şoförü"
+  },
+  {
+    "id": "code-1148",
+    "label": "Ulaşım Sorumlusu"
+  },
+  {
+    "id": "code-1149",
+    "label": "Uluslararası Beslenme Uzmanı"
+  },
+  {
+    "id": "code-1150",
+    "label": "Uluslararası Ekonomist"
+  },
+  {
+    "id": "code-1151",
+    "label": "Uluslararası İlişkiler Uzmanı"
+  },
+  {
+    "id": "code-1152",
+    "label": "Ustabaşı"
+  },
+  {
+    "id": "code-1153",
+    "label": "Uydu Antenci"
+  },
+  {
+    "id": "code-1154",
+    "label": "Uydu Veri Analisti"
+  },
+  {
+    "id": "code-1155",
+    "label": "Uygulamalı Dilbilimci"
+  },
+  {
+    "id": "code-1156",
+    "label": "Uygulamalı Fizikçi"
+  },
+  {
+    "id": "code-1157",
+    "label": "Uygulamalı Matematikçi"
+  },
+  {
+    "id": "code-1158",
+    "label": "Uyum Teknisyeni"
+  },
+  {
+    "id": "code-1159",
+    "label": "Uzay Bilimcisi"
+  },
+  {
+    "id": "code-1160",
+    "label": "Uzay Biyologu"
+  },
+  {
+    "id": "code-1161",
+    "label": "Uzay Fotoğrafçısı (Astrofotoğrafçı)"
+  },
+  {
+    "id": "code-1162",
+    "label": "Uzay Mühendisi"
+  },
+  {
+    "id": "code-1163",
+    "label": "Uzman Jandarma"
+  },
+  {
+    "id": "code-1164",
+    "label": "Uzman Onbaşı"
+  },
+  {
+    "id": "code-1165",
+    "label": "Uzman Çavuş"
+  },
+  {
+    "id": "code-1166",
+    "label": "Uzun Yol Kaptanı"
+  },
+  {
+    "id": "code-1167",
+    "label": "Uzun Yol Şoförü"
+  },
+  {
+    "id": "code-1168",
+    "label": "Uçak Mekaniği"
+  },
+  {
+    "id": "code-1169",
+    "label": "Uçak Pilotu"
+  },
+  {
+    "id": "code-1170",
+    "label": "Uçuş Mühendisi"
+  },
+  {
+    "id": "code-1171",
+    "label": "Uçuş Teknisyeni"
+  },
+  {
+    "id": "code-1172",
+    "label": "Uşak"
+  },
+  {
+    "id": "code-1173",
+    "label": "Vahşiyaşam Araştırmacısı"
+  },
+  {
+    "id": "code-1174",
+    "label": "Vaiz"
+  },
+  {
+    "id": "code-1175",
+    "label": "Vali"
+  },
+  {
+    "id": "code-1176",
+    "label": "Vatman"
+  },
+  {
+    "id": "code-1177",
+    "label": "Vergi Müfettişi"
+  },
+  {
+    "id": "code-1178",
+    "label": "Vergi Tahakkuk Memuru"
+  },
+  {
+    "id": "code-1179",
+    "label": "Vergi denetmeni"
+  },
+  {
+    "id": "code-1180",
+    "label": "Veri Bilimci"
+  },
+  {
+    "id": "code-1181",
+    "label": "Veri Hazırlama ve Kontrol İşletmeni"
+  },
+  {
+    "id": "code-1182",
+    "label": "Veri Madencisi"
+  },
+  {
+    "id": "code-1183",
+    "label": "Veritabanı Yöneticisi"
+  },
+  {
+    "id": "code-1184",
+    "label": "Vestiyerci"
+  },
+  {
+    "id": "code-1185",
+    "label": "Veteriner Hekim"
+  },
+  {
+    "id": "code-1186",
+    "label": "Veteriner Sağlık Teknikeri"
+  },
+  {
+    "id": "code-1187",
+    "label": "Veteriner Sağlık Teknisyeni"
+  },
+  {
+    "id": "code-1188",
+    "label": "Veznedar"
+  },
+  {
+    "id": "code-1189",
+    "label": "Video Editörü"
+  },
+  {
+    "id": "code-1190",
+    "label": "Video Jockey (VJ)"
+  },
+  {
+    "id": "code-1191",
+    "label": "Videograf"
+  },
+  {
+    "id": "code-1192",
+    "label": "Vinç Operatörü"
+  },
+  {
+    "id": "code-1193",
+    "label": "Virolog"
+  },
+  {
+    "id": "code-1194",
+    "label": "Vitrinci"
+  },
+  {
+    "id": "code-1195",
+    "label": "Viyolonselci"
+  },
+  {
+    "id": "code-1196",
+    "label": "Vulkanolog"
+  },
+  {
+    "id": "code-1197",
+    "label": "Yapay Zeka Mühendisi"
+  },
+  {
+    "id": "code-1198",
+    "label": "Yapay Zeka Uzmanı"
+  },
+  {
+    "id": "code-1199",
+    "label": "Yapı Mühendisi"
+  },
+  {
+    "id": "code-1200",
+    "label": "Yapısal Biyolog"
+  },
+  {
+    "id": "code-1201",
+    "label": "Yarbay"
+  },
+  {
+    "id": "code-1202",
+    "label": "Yardımcı Doçent"
+  },
+  {
+    "id": "code-1203",
+    "label": "Yardımcı Hakem"
+  },
+  {
+    "id": "code-1204",
+    "label": "Yardımcı Hizmetli"
+  },
+  {
+    "id": "code-1205",
+    "label": "Yardımcı Pilot"
+  },
+  {
+    "id": "code-1206",
+    "label": "Yargıç"
+  },
+  {
+    "id": "code-1207",
+    "label": "Yatırım Uzmanı"
+  },
+  {
+    "id": "code-1208",
+    "label": "Yayın Yönetmeni"
+  },
+  {
+    "id": "code-1209",
+    "label": "Yayıncı"
+  },
+  {
+    "id": "code-1210",
+    "label": "Yazar"
+  },
+  {
+    "id": "code-1211",
+    "label": "Yazı İşleri Müdürü"
+  },
+  {
+    "id": "code-1212",
+    "label": "Yazılım Geliştirici"
+  },
+  {
+    "id": "code-1214",
+    "label": "Yazılım Mühendisi"
+  },
+  {
+    "id": "code-1215",
+    "label": "Yaşam Koçu"
+  },
+  {
+    "id": "code-1216",
+    "label": "Yelkenci"
+  },
+  {
+    "id": "code-1217",
+    "label": "Yeminli Mali Müşavir"
+  },
+  {
+    "id": "code-1218",
+    "label": "Yeminli Tercüman"
+  },
+  {
+    "id": "code-1219",
+    "label": "Yer Gösterici"
+  },
+  {
+    "id": "code-1220",
+    "label": "Yer Teknisyeni"
+  },
+  {
+    "id": "code-1221",
+    "label": "Yeraltı Suları Teknisyeni"
+  },
+  {
+    "id": "code-1222",
+    "label": "Yerölçmeci"
+  },
+  {
+    "id": "code-1223",
+    "label": "Yol bekçisi"
+  },
+  {
+    "id": "code-1224",
+    "label": "Yol İşaret Asistanı"
+  },
+  {
+    "id": "code-1225",
+    "label": "Yorgancı"
+  },
+  {
+    "id": "code-1226",
+    "label": "Yorumcu"
+  },
+  {
+    "id": "code-1227",
+    "label": "YouTube İçerik Üreticisi (YouTuber)"
+  },
+  {
+    "id": "code-1228",
+    "label": "Yoğun Hal Fizikçisi"
+  },
+  {
+    "id": "code-1229",
+    "label": "Yoğurtçu"
+  },
+  {
+    "id": "code-1230",
+    "label": "Yönetici"
+  },
+  {
+    "id": "code-1231",
+    "label": "Yönetim Kurulu Başkanı (CEO)"
+  },
+  {
+    "id": "code-1232",
+    "label": "Yönetmen"
+  },
+  {
+    "id": "code-1233",
+    "label": "Yüzbaşı"
+  },
+  {
+    "id": "code-1234",
+    "label": "Yüzücü"
+  },
+  {
+    "id": "code-1235",
+    "label": "Yıkıcı"
+  },
+  {
+    "id": "code-1236",
+    "label": "Zabıta"
+  },
+  {
+    "id": "code-1237",
+    "label": "Zoolog"
+  },
+  {
+    "id": "code-1238",
+    "label": "Çamaşırcı"
+  },
+  {
+    "id": "code-1239",
+    "label": "Çantacı"
+  },
+  {
+    "id": "code-1240",
+    "label": "Çarkçı"
+  },
+  {
+    "id": "code-1241",
+    "label": "Çatıcı"
+  },
+  {
+    "id": "code-1242",
+    "label": "Çavuş"
+  },
+  {
+    "id": "code-1243",
+    "label": "Çaycı"
+  },
+  {
+    "id": "code-1244",
+    "label": "Çevik Kuvvet"
+  },
+  {
+    "id": "code-1245",
+    "label": "Çevirmen"
+  },
+  {
+    "id": "code-1246",
+    "label": "Çevre Acil Durum Planlayıcısı"
+  },
+  {
+    "id": "code-1247",
+    "label": "Çevre Mühendisi"
+  },
+  {
+    "id": "code-1248",
+    "label": "Çevre Projeleri Analisti"
+  },
+  {
+    "id": "code-1249",
+    "label": "Çevre Sağlığı Uzmanı"
+  },
+  {
+    "id": "code-1250",
+    "label": "Çevre Uzmanı"
+  },
+  {
+    "id": "code-1251",
+    "label": "Çevre Veri Analisti"
+  },
+  {
+    "id": "code-1252",
+    "label": "Çevrebilimci"
+  },
+  {
+    "id": "code-1253",
+    "label": "Çeyizci"
+  },
+  {
+    "id": "code-1254",
+    "label": "Çeşitlilik Dilbilimcisi"
+  },
+  {
+    "id": "code-1255",
+    "label": "Çiftlik İşletici"
+  },
+  {
+    "id": "code-1256",
+    "label": "Çiftçi"
+  },
+  {
+    "id": "code-1257",
+    "label": "Çikolatacı"
+  },
+  {
+    "id": "code-1258",
+    "label": "Çilingir"
+  },
+  {
+    "id": "code-1259",
+    "label": "Çinici"
+  },
+  {
+    "id": "code-1260",
+    "label": "Çitçi"
+  },
+  {
+    "id": "code-1261",
+    "label": "Çiçekçi"
+  },
+  {
+    "id": "code-1262",
+    "label": "Çoban"
+  },
+  {
+    "id": "code-1263",
+    "label": "Çocuk Doktoru"
+  },
+  {
+    "id": "code-1264",
+    "label": "Çocuk Hemşiresi"
+  },
+  {
+    "id": "code-1265",
+    "label": "Çorapçı"
+  },
+  {
+    "id": "code-1266",
+    "label": "Çömlekçi"
+  },
+  {
+    "id": "code-1267",
+    "label": "Çöp işçisi"
+  },
+  {
+    "id": "code-1268",
+    "label": "Çöpçü"
+  },
+  {
+    "id": "code-1269",
+    "label": "Çıkrıkçı"
+  },
+  {
+    "id": "code-1270",
+    "label": "Çıkıkçı"
+  },
+  {
+    "id": "code-1271",
+    "label": "Çırak"
+  },
+  {
+    "id": "code-1272",
+    "label": "Ön Büro Elemanı"
+  },
+  {
+    "id": "code-1273",
+    "label": "Ön Muhasebe Sorumlusu"
+  },
+  {
+    "id": "code-1274",
+    "label": "Ön Muhasebe Yardımcı Elemanı"
+  },
+  {
+    "id": "code-1275",
+    "label": "Ön Muhasebeci"
+  },
+  {
+    "id": "code-1276",
+    "label": "Ön Site Geliştiricisi"
+  },
+  {
+    "id": "code-1277",
+    "label": "Örmeci"
+  },
+  {
+    "id": "code-1278",
+    "label": "Özel Kalem Müdürü"
+  },
+  {
+    "id": "code-1279",
+    "label": "Özel Sektör Çalışanı"
+  },
+  {
+    "id": "code-1280",
+    "label": "Özel Şoför"
+  },
+  {
+    "id": "code-1281",
+    "label": "Öğrenci"
+  },
+  {
+    "id": "code-1282",
+    "label": "Öğretim Elemanı"
+  },
+  {
+    "id": "code-1283",
+    "label": "Öğretim Görevlisi"
+  },
+  {
+    "id": "code-1284",
+    "label": "Öğretim Üyesi"
+  },
+  {
+    "id": "code-1285",
+    "label": "Öğretmen"
+  },
+  {
+    "id": "code-1286",
+    "label": "Üretici"
+  },
+  {
+    "id": "code-1287",
+    "label": "Ürolog"
+  },
+  {
+    "id": "code-1288",
+    "label": "Ürün Deneticisi"
+  },
+  {
+    "id": "code-1289",
+    "label": "Ürün Mühendisi"
+  },
+  {
+    "id": "code-1290",
+    "label": "Ürün Test Müdürü"
+  },
+  {
+    "id": "code-1291",
+    "label": "Ürün Test Uzmanı"
+  },
+  {
+    "id": "code-1292",
+    "label": "Üst Düzey Yönetici"
+  },
+  {
+    "id": "code-1293",
+    "label": "Üsteğmen"
+  },
+  {
+    "id": "code-1294",
+    "label": "Ütücü"
+  },
+  {
+    "id": "code-1295",
+    "label": "Üzümcü"
+  },
+  {
+    "id": "code-1296",
+    "label": "İcra Avukatı"
+  },
+  {
+    "id": "code-1297",
+    "label": "İcra Memuru"
+  },
+  {
+    "id": "code-1298",
+    "label": "İdeolog"
+  },
+  {
+    "id": "code-1299",
+    "label": "İhracatçı"
+  },
+  {
+    "id": "code-1300",
+    "label": "İhtiyolog (Balık Bilimci)"
+  },
+  {
+    "id": "code-1301",
+    "label": "İklim Veri Analisti"
+  },
+  {
+    "id": "code-1302",
+    "label": "İktisatçı"
+  },
+  {
+    "id": "code-1303",
+    "label": "İlahiyatçı"
+  },
+  {
+    "id": "code-1304",
+    "label": "İlaç Denetim İşleri Yöneticisi"
+  },
+  {
+    "id": "code-1305",
+    "label": "İlaç Denetmeni"
+  },
+  {
+    "id": "code-1306",
+    "label": "İlaç Kimyageri"
+  },
+  {
+    "id": "code-1307",
+    "label": "İletişim Araştırmacısı"
+  },
+  {
+    "id": "code-1308",
+    "label": "İletişim Mühendisi"
+  },
+  {
+    "id": "code-1309",
+    "label": "İllüzyonist"
+  },
+  {
+    "id": "code-1310",
+    "label": "İmam"
+  },
+  {
+    "id": "code-1311",
+    "label": "İmmünolog"
+  },
+  {
+    "id": "code-1312",
+    "label": "İmmünopatolog"
+  },
+  {
+    "id": "code-1313",
+    "label": "İnsan Faktörleri Mühendisi"
+  },
+  {
+    "id": "code-1314",
+    "label": "İnsan Kaynakları Uzmanı"
+  },
+  {
+    "id": "code-1315",
+    "label": "İnşaat Mühendisi"
+  },
+  {
+    "id": "code-1316",
+    "label": "İnşaatçı"
+  },
+  {
+    "id": "code-1317",
+    "label": "İplikçi"
+  },
+  {
+    "id": "code-1318",
+    "label": "İpçi"
+  },
+  {
+    "id": "code-1319",
+    "label": "İstatistik Teorisyeni"
+  },
+  {
+    "id": "code-1320",
+    "label": "İstatistikçi"
+  },
+  {
+    "id": "code-1321",
+    "label": "İstihkâmcı"
+  },
+  {
+    "id": "code-1322",
+    "label": "İtfaiye"
+  },
+  {
+    "id": "code-1323",
+    "label": "İtfaiyeci"
+  },
+  {
+    "id": "code-1324",
+    "label": "İthalatçı"
+  },
+  {
+    "id": "code-1325",
+    "label": "İç Mimar"
+  },
+  {
+    "id": "code-1326",
+    "label": "İçerik Moderatörü"
+  },
+  {
+    "id": "code-1327",
+    "label": "İçerik Pazarlayıcı"
+  },
+  {
+    "id": "code-1328",
+    "label": "İçerik Üreticisi"
+  },
+  {
+    "id": "code-1329",
+    "label": "İğneci"
+  },
+  {
+    "id": "code-1330",
+    "label": "İş Analisti"
+  },
+  {
+    "id": "code-1331",
+    "label": "İş Ekonomisti"
+  },
+  {
+    "id": "code-1332",
+    "label": "İş Sistem Analisti"
+  },
+  {
+    "id": "code-1333",
+    "label": "İş ve Uğraşı Terapisti"
+  },
+  {
+    "id": "code-1334",
+    "label": "İşaretçi"
+  },
+  {
+    "id": "code-1335",
+    "label": "İşlem Danışmanı"
+  },
+  {
+    "id": "code-1336",
+    "label": "İşletme Mühendisi"
+  },
+  {
+    "id": "code-1337",
+    "label": "İşletmeci"
+  },
+  {
+    "id": "code-1338",
+    "label": "İşportacı"
+  },
+  {
+    "id": "code-1339",
+    "label": "İşçi"
+  },
+  {
+    "id": "code-1340",
+    "label": "Şahinci"
+  },
+  {
+    "id": "code-1341",
+    "label": "Şair"
+  },
+  {
+    "id": "code-1342",
+    "label": "Şapel Papazı"
+  },
+  {
+    "id": "code-1343",
+    "label": "Şapkacı"
+  },
+  {
+    "id": "code-1344",
+    "label": "Şarap Üreticisi"
+  },
+  {
+    "id": "code-1345",
+    "label": "Şarapçı"
+  },
+  {
+    "id": "code-1346",
+    "label": "Şarküter"
+  },
+  {
+    "id": "code-1347",
+    "label": "Şarküteri, Gıda Pazarları ve Bakkal Satış Elemanı"
+  },
+  {
+    "id": "code-1348",
+    "label": "Şarkı Sözü Yazarı"
+  },
+  {
+    "id": "code-1349",
+    "label": "Şarkıcı"
+  },
+  {
+    "id": "code-1350",
+    "label": "Şarlatan"
+  },
+  {
+    "id": "code-1351",
+    "label": "Şehir Plancısı"
+  },
+  {
+    "id": "code-1352",
+    "label": "Şehir ve Bölge Planlama"
+  },
+  {
+    "id": "code-1353",
+    "label": "Şekerci"
+  },
+  {
+    "id": "code-1354",
+    "label": "Şemsiyeci"
+  },
+  {
+    "id": "code-1355",
+    "label": "Şifre Çözücü"
+  },
+  {
+    "id": "code-1356",
+    "label": "Şifre Çözümleyici"
+  },
+  {
+    "id": "code-1357",
+    "label": "Şimşirci"
+  },
+  {
+    "id": "code-1358",
+    "label": "Şirket Avukatı"
+  },
+  {
+    "id": "code-1359",
+    "label": "Şoför"
+  }
+]

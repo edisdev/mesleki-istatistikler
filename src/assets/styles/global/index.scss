@@ -1,0 +1,41 @@
+body {
+  background: $home-color;
+  font-family: 'Poppins', sans-serif;
+}
+
+*:focus {
+  outline: 0;
+}
+
+form {
+  .error {
+    color: red !important;
+    font-size: 12px;
+  }
+  span.error {
+    margin-left: 5px;
+  }
+  input.error,
+  select.error,
+  .v-select.error .dropdown-toggle {
+    border-color: red !important;
+  }
+}
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+.successMessage  {
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  background: #d4edda;
+  color: #155724;
+  border-radius: 10px;
+}
